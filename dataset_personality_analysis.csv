@@ -1,0 +1,1988 @@
+Registration No.,Name,Age,Gender,Education,Interest,Emotional Stability (%),Conscientiousness (%),Openness (%),Thinking Score,Extroversion (%),Agreeableness (%),Neuroticism (%),Dominance (%),Risk Taking (%)
+1,Ishita,15,Female,School,Photography,27,23,52,83,24,88,5,8,33
+3,Ishita,94,Female,Graduation,Gaming,64,16,61,11,24,96,90,86,5
+5,Kabir,46,Male,School,Music,53,75,38,21,49,18,43,81,57
+11,Riya,14,Male,School,Reading,76,25,81,76,73,26,48,85,91
+15,Kabir,1,Male,School,Photography,98,57,74,74,2,52,7,62,55
+20,Vivaan,15,Male,Post Graduation,Gaming,10,34,85,36,48,51,7,78,57
+21,Priya,25,Female,Post Graduation,Dancing,50,23,26,88,32,18,36,56,49
+27,Riya,59,Male,School,Gaming,4,75,52,96,8,82,2,91,51
+32,Aarav,7,Female,School,Traveling,1,58,59,92,86,73,59,14,90
+42,Vihaan,58,Male,School,Painting,31,22,76,80,10,93,68,52,97
+45,Myra,3,Male,School,Dancing,96,23,68,59,60,59,79,20,65
+49,Kabir,35,Female,Post Graduation,Cooking,36,63,82,15,100,45,32,66,72
+50,Krishna,43,Female,Post Graduation,Sports,44,81,58,69,7,23,13,91,57
+56,Aryan,40,Female,Post Graduation,Music,72,18,94,35,29,4,47,11,60
+58,Diya,95,Male,Graduation,Music,74,65,68,61,0,59,29,52,38
+59,Arjun,65,Male,School,Photography,34,76,98,54,91,51,67,22,78
+69,Ananya,82,Male,Post Graduation,Cooking,68,26,65,100,41,92,43,26,82
+82,Zara,22,Male,Post Graduation,Sports,29,34,44,56,63,60,85,97,17
+90,Ishita,79,Male,Post Graduation,Painting,83,25,47,86,63,26,13,9,89
+93,Vihaan,5,Male,Graduation,Writing,67,84,78,47,49,32,45,81,4
+98,Krishna,72,Male,Post Graduation,Reading,45,28,75,2,40,27,66,73,100
+106,Arjun,30,Female,Graduation,Painting,74,36,61,23,50,68,11,64,54
+111,Aryan,45,Female,School,Gaming,1,96,73,45,31,40,37,1,45
+112,Sanya,1,Female,Graduation,Sports,44,67,84,23,75,12,89,35,26
+114,Aarav,25,Female,Graduation,Writing,24,26,28,64,25,86,95,42,37
+117,Arjun,80,Female,Graduation,Reading,13,13,1,10,54,92,100,72,19
+119,Krishna,54,Female,Post Graduation,Music,49,34,60,89,20,54,79,53,27
+120,Priya,90,Male,School,Writing,40,45,36,41,4,51,96,53,47
+128,Ananya,4,Female,School,Reading,24,16,74,71,30,66,74,59,19
+134,Aditya,52,Male,School,Music,86,63,2,49,15,8,58,4,13
+139,Krishna,3,Female,Post Graduation,Writing,96,52,66,22,30,67,8,21,75
+141,Aditya,23,Female,Post Graduation,Writing,35,65,66,63,48,7,94,93,87
+144,Aanya,73,Male,Post Graduation,Photography,25,6,55,9,90,64,72,66,96
+145,Vihaan,24,Male,Post Graduation,Cooking,46,65,50,18,30,47,5,25,35
+147,Priya,41,Male,Post Graduation,Cooking,86,51,49,53,62,50,43,95,14
+153,Rohan,89,Male,Post Graduation,Gaming,14,2,54,96,5,6,1,32,24
+154,Aryan,83,Female,School,Cooking,82,10,66,29,63,25,2,68,37
+155,Diya,11,Female,School,Painting,80,15,12,91,89,14,98,12,12
+162,Priya,97,Male,Post Graduation,Music,60,57,19,6,41,60,88,48,6
+163,Vihaan,56,Male,Graduation,Reading,36,33,65,52,43,73,64,3,52
+175,Ananya,66,Female,School,Music,50,64,78,7,63,49,4,3,12
+178,Riya,24,Female,Post Graduation,Photography,86,69,51,70,24,67,64,41,19
+183,Aanya,79,Female,Graduation,Music,70,65,39,66,66,83,4,4,82
+186,Aditya,46,Male,Graduation,Reading,56,79,56,11,57,49,44,26,93
+199,Kabir,26,Male,Post Graduation,Music,47,8,41,60,2,15,39,18,2
+204,Sanya,15,Male,School,Gaming,85,49,41,62,97,15,37,11,95
+208,Aditya,12,Male,School,Music,40,71,25,5,53,0,61,10,25
+210,Aarav,95,Male,Graduation,Writing,32,85,2,67,24,32,54,4,94
+224,Kabir,39,Male,Graduation,Sports,92,63,48,87,14,42,47,54,75
+231,Sai,59,Male,Post Graduation,Music,76,52,76,38,99,61,55,34,97
+245,Krishna,93,Male,Post Graduation,Writing,93,3,0,80,12,21,94,60,32
+246,Priya,51,Female,Post Graduation,Traveling,81,57,25,79,94,27,13,26,36
+249,Sai,48,Male,Post Graduation,Sports,66,86,82,7,10,94,76,13,44
+252,Sai,66,Female,Graduation,Cooking,13,51,15,2,74,69,9,30,65
+253,Sai,27,Male,Graduation,Reading,52,57,3,96,16,17,85,38,51
+255,Vivaan,65,Female,School,Dancing,24,77,18,83,13,10,59,78,75
+257,Aryan,7,Female,School,Painting,43,63,95,27,66,22,48,20,83
+266,Riya,43,Male,School,Dancing,94,41,50,71,4,38,52,39,3
+267,Aanya,55,Female,Post Graduation,Cooking,36,33,65,14,95,94,90,71,46
+269,Vivaan,35,Male,Graduation,Writing,11,70,2,15,3,39,34,14,48
+271,Priya,2,Male,School,Music,48,53,40,38,28,73,73,68,56
+282,Aditya,85,Female,Graduation,Traveling,62,27,98,53,63,62,99,74,37
+283,Myra,42,Male,Graduation,Reading,11,62,65,23,100,53,89,35,74
+284,Krishna,31,Male,Post Graduation,Painting,60,13,54,76,10,73,64,99,14
+291,Ishita,7,Male,School,Traveling,91,64,44,87,18,18,10,29,69
+292,Aanya,3,Male,School,Writing,86,47,47,33,73,10,94,42,1
+296,Aarav,47,Male,Graduation,Reading,77,10,62,85,97,95,65,28,8
+297,Aanya,47,Female,Graduation,Photography,78,5,80,69,62,67,50,24,22
+300,Aryan,60,Male,Graduation,Music,64,87,68,100,42,45,57,86,25
+306,Aditya,98,Male,Post Graduation,Reading,84,2,31,4,77,28,61,23,73
+307,Zara,70,Female,School,Music,46,51,58,22,10,18,41,99,87
+310,Riya,9,Female,Graduation,Traveling,85,65,50,98,63,0,16,74,58
+313,Sai,68,Female,School,Photography,72,15,67,34,12,98,21,12,79
+316,Zara,13,Male,School,Writing,53,61,77,92,60,55,13,5,38
+318,Ishita,85,Female,Post Graduation,Reading,77,99,72,31,53,42,17,35,42
+321,Priya,78,Male,Post Graduation,Writing,81,93,31,27,41,93,7,0,31
+322,Sanya,81,Female,Post Graduation,Writing,46,41,84,7,13,23,52,77,18
+323,Kabir,76,Female,Post Graduation,Writing,12,89,11,58,1,1,60,17,89
+334,Vihaan,92,Female,School,Music,27,69,41,74,91,6,99,98,94
+345,Aanya,62,Male,Graduation,Gaming,42,97,13,98,13,49,11,92,32
+348,Sanya,84,Male,Post Graduation,Cooking,69,53,31,7,86,22,36,94,16
+349,Zara,11,Female,Post Graduation,Music,25,18,12,53,17,99,69,74,41
+351,Ananya,91,Female,Post Graduation,Dancing,25,29,22,50,25,66,18,23,64
+355,Aarav,12,Male,Graduation,Cooking,35,40,94,90,9,2,16,88,42
+358,Aarav,28,Female,Post Graduation,Photography,91,46,91,69,27,3,96,33,49
+359,Zara,79,Female,Graduation,Photography,45,79,69,14,91,90,10,90,94
+368,Zara,16,Male,Post Graduation,Photography,83,31,49,44,16,17,9,63,41
+389,Aanya,81,Male,Graduation,Painting,98,7,15,79,16,85,5,50,7
+391,Aarav,85,Female,School,Painting,3,19,38,89,15,20,33,72,89
+404,Aditya,48,Female,Graduation,Music,47,51,11,11,15,98,27,60,29
+416,Riya,2,Male,School,Dancing,98,44,40,71,30,21,18,96,58
+421,Arjun,4,Male,Graduation,Painting,97,19,37,63,87,70,89,44,33
+422,Riya,5,Female,Post Graduation,Writing,2,65,96,22,15,60,24,9,4
+429,Sanya,92,Male,Graduation,Photography,85,95,80,82,18,57,49,35,69
+434,Ishita,15,Female,Post Graduation,Sports,71,70,4,45,54,81,45,58,52
+439,Krishna,33,Female,Graduation,Photography,32,81,80,43,49,5,3,77,51
+443,Ishita,56,Female,Graduation,Gaming,47,19,78,100,69,11,35,11,88
+447,Kabir,82,Male,School,Cooking,73,69,91,86,10,44,91,91,63
+458,Sanya,70,Female,Graduation,Reading,29,61,9,26,76,79,43,37,86
+459,Arjun,53,Male,Graduation,Music,3,15,28,88,65,73,0,97,7
+461,Aryan,28,Male,School,Cooking,11,76,43,56,15,24,3,75,63
+464,Vivaan,19,Female,Graduation,Photography,74,24,29,93,22,75,15,66,42
+466,Aanya,8,Male,Post Graduation,Gaming,34,26,29,82,70,15,5,85,84
+468,Vihaan,1,Female,Post Graduation,Photography,1,73,61,18,64,47,86,75,23
+469,Ishita,21,Male,Post Graduation,Music,93,96,44,90,38,71,90,67,29
+472,Sai,57,Female,School,Cooking,39,33,7,47,94,58,66,44,71
+481,Ishita,73,Female,Graduation,Cooking,33,38,1,14,72,70,95,45,74
+493,Ishita,65,Male,School,Dancing,53,76,40,60,42,60,96,37,59
+494,Aanya,25,Male,Graduation,Photography,58,18,30,22,15,9,5,23,94
+498,Kabir,89,Male,School,Music,43,78,52,84,20,1,46,12,61
+500,Ananya,9,Female,Post Graduation,Writing,79,86,69,68,29,93,49,95,43
+515,Riya,97,Male,Graduation,Writing,58,7,38,81,63,60,81,44,15
+517,Aanya,48,Female,School,Sports,20,78,86,44,9,65,4,61,47
+520,Arjun,81,Male,Graduation,Dancing,56,45,76,68,33,41,45,57,98
+522,Sai,61,Female,Post Graduation,Dancing,81,20,61,82,2,62,0,80,71
+532,Kabir,68,Female,Graduation,Gaming,66,13,19,45,74,77,79,77,18
+542,Riya,49,Female,School,Traveling,38,69,0,83,71,52,44,69,50
+544,Ishita,19,Female,Post Graduation,Reading,93,9,48,33,38,2,85,10,4
+550,Diya,38,Female,School,Writing,20,38,28,80,25,80,64,43,81
+554,Tanvi,36,Female,Graduation,Dancing,59,12,67,14,87,51,13,64,26
+560,Aryan,37,Male,Post Graduation,Photography,60,53,72,55,77,50,85,15,45
+565,Aryan,66,Male,Graduation,Painting,84,5,4,78,24,31,79,31,26
+568,Aanya,24,Female,School,Gaming,69,1,85,2,100,19,95,10,38
+575,Zara,11,Female,Post Graduation,Writing,34,54,86,78,83,67,13,94,79
+583,Aditya,41,Male,School,Gaming,56,76,47,22,37,69,78,35,7
+584,Rohan,6,Male,Graduation,Gaming,23,3,33,54,9,80,15,32,86
+588,Tanvi,10,Female,School,Sports,83,83,22,35,82,41,28,47,62
+589,Ishita,92,Female,Post Graduation,Reading,1,53,67,86,8,74,86,92,5
+594,Sanya,61,Female,Graduation,Gaming,28,65,99,39,13,10,41,62,10
+599,Myra,17,Female,School,Cooking,58,57,18,98,94,42,94,54,49
+602,Kabir,73,Female,Post Graduation,Dancing,46,48,25,22,58,34,61,19,31
+612,Priya,18,Male,Graduation,Dancing,72,88,50,65,44,25,84,87,98
+613,Aryan,72,Female,Graduation,Dancing,27,34,30,19,85,99,51,50,20
+618,Priya,38,Male,School,Sports,72,84,4,47,36,76,53,67,14
+620,Aanya,16,Female,Post Graduation,Traveling,34,58,42,63,40,29,71,60,69
+624,Sanya,64,Female,School,Dancing,29,46,31,92,99,70,9,80,83
+626,Priya,39,Female,Graduation,Music,35,68,43,21,79,57,80,78,2
+629,Priya,60,Female,Graduation,Traveling,16,52,39,64,15,39,31,90,70
+632,Zara,37,Male,Post Graduation,Reading,16,11,96,34,60,25,30,42,49
+637,Rohan,84,Male,Post Graduation,Painting,36,43,43,78,37,84,89,79,78
+640,Krishna,82,Female,School,Music,43,36,8,77,56,80,61,37,31
+647,Vihaan,94,Female,Graduation,Gaming,23,87,15,19,6,70,61,71,66
+650,Arjun,91,Female,Graduation,Cooking,59,57,82,36,44,49,76,8,100
+651,Vivaan,87,Female,Graduation,Dancing,20,87,8,8,16,33,95,69,95
+653,Rohan,85,Female,Graduation,Painting,17,77,4,2,44,70,79,84,30
+661,Zara,49,Male,School,Dancing,12,6,0,13,29,14,77,21,46
+663,Ananya,77,Female,Post Graduation,Photography,65,98,59,86,59,71,69,4,41
+664,Sai,34,Female,Post Graduation,Cooking,43,63,25,59,33,90,65,2,79
+673,Sai,55,Female,School,Reading,66,68,70,11,43,4,58,20,92
+687,Myra,54,Female,Graduation,Cooking,91,77,93,93,67,22,21,22,63
+691,Priya,26,Male,School,Photography,34,88,81,5,45,56,3,73,86
+694,Kabir,54,Female,Post Graduation,Dancing,70,49,68,28,9,55,81,94,96
+695,Riya,86,Male,Graduation,Traveling,97,56,39,91,48,43,15,44,88
+699,Vivaan,38,Male,Graduation,Sports,37,13,62,49,31,22,82,42,71
+701,Tanvi,63,Female,Post Graduation,Sports,13,91,8,24,14,36,94,2,50
+714,Tanvi,8,Male,School,Reading,46,58,57,65,5,28,71,57,32
+717,Aryan,15,Male,Post Graduation,Photography,29,5,53,85,51,99,98,5,69
+721,Aryan,19,Female,Post Graduation,Traveling,25,30,88,67,58,46,97,48,43
+722,Tanvi,24,Female,Graduation,Writing,25,78,57,66,60,58,11,87,73
+725,Aryan,33,Female,Post Graduation,Writing,73,33,63,88,28,68,75,89,34
+731,Aarav,93,Male,Post Graduation,Music,98,32,10,61,18,20,64,70,86
+736,Kabir,2,Male,Post Graduation,Dancing,90,84,52,1,70,30,84,12,29
+742,Aarav,64,Male,School,Cooking,78,38,64,13,30,63,78,61,42
+743,Kabir,6,Male,Post Graduation,Painting,89,7,72,20,99,92,45,26,95
+750,Aditya,65,Female,School,Dancing,26,43,30,15,60,65,70,14,100
+757,Ishita,39,Female,Graduation,Gaming,93,6,91,60,62,28,62,10,20
+764,Myra,7,Female,School,Cooking,28,60,68,91,18,58,59,73,72
+777,Zara,47,Female,School,Reading,11,44,89,59,41,9,67,45,10
+785,Riya,15,Female,Graduation,Writing,63,97,57,71,58,73,6,28,91
+786,Kabir,66,Female,Graduation,Dancing,27,31,89,13,82,77,10,100,99
+788,Priya,97,Male,Graduation,Cooking,33,47,28,93,30,69,15,8,90
+794,Zara,50,Male,School,Painting,12,78,49,5,81,3,73,16,86
+804,Aditya,56,Female,Post Graduation,Sports,69,18,58,61,21,22,20,6,48
+805,Sai,98,Female,School,Photography,86,57,69,38,60,85,29,74,29
+811,Aditya,1,Female,Post Graduation,Photography,22,34,26,91,22,95,90,16,81
+815,Myra,90,Female,Post Graduation,Traveling,93,99,67,88,16,74,80,91,96
+823,Diya,6,Female,Post Graduation,Photography,84,99,93,77,85,15,13,30,65
+825,Sai,11,Female,Post Graduation,Music,84,58,70,77,92,91,25,71,50
+846,Myra,57,Female,School,Reading,88,20,48,31,11,29,39,7,90
+852,Zara,13,Female,Graduation,Photography,29,49,94,86,97,50,83,94,69
+853,Kabir,94,Male,Graduation,Sports,69,78,83,21,100,23,21,41,89
+857,Zara,62,Male,Post Graduation,Traveling,41,64,82,42,62,24,88,46,40
+861,Aarav,94,Female,Graduation,Reading,94,62,7,8,9,35,24,91,74
+866,Tanvi,64,Female,School,Gaming,64,13,79,87,42,39,5,39,7
+871,Riya,28,Female,Graduation,Dancing,71,48,20,61,43,10,93,88,35
+874,Aryan,3,Male,Graduation,Writing,78,90,36,67,2,52,32,45,82
+876,Sai,38,Female,Post Graduation,Gaming,12,98,4,11,24,62,93,90,82
+880,Aarav,16,Female,Graduation,Photography,13,50,10,52,10,85,40,52,87
+883,Rohan,41,Female,School,Gaming,23,3,5,38,97,8,3,94,67
+887,Arjun,32,Male,Post Graduation,Photography,43,44,12,16,14,82,23,48,34
+898,Sanya,94,Female,School,Gaming,90,57,37,35,31,5,98,8,58
+900,Zara,66,Male,Graduation,Dancing,90,68,25,10,69,54,82,76,42
+903,Zara,99,Male,School,Writing,87,73,6,78,21,22,27,40,62
+904,Aryan,82,Male,Post Graduation,Writing,38,75,23,20,60,93,81,71,15
+905,Priya,83,Male,School,Gaming,41,62,100,15,60,18,78,11,91
+907,Sanya,45,Female,Graduation,Writing,5,36,65,21,7,92,93,6,0
+909,Ishita,60,Female,Graduation,Cooking,63,71,60,81,95,41,93,93,43
+918,Vihaan,67,Male,Graduation,Reading,54,90,48,85,4,75,53,93,34
+921,Aarav,30,Male,School,Painting,33,38,64,21,15,22,87,78,78
+923,Diya,17,Female,School,Traveling,41,52,32,2,23,15,36,23,56
+938,Zara,49,Male,School,Music,83,3,46,40,52,86,65,61,12
+943,Diya,83,Male,Post Graduation,Cooking,60,39,81,69,64,61,71,80,71
+951,Sanya,14,Female,School,Reading,85,91,86,46,89,40,21,97,13
+954,Ishita,31,Female,Graduation,Dancing,56,95,4,46,91,87,98,56,98
+959,Ananya,80,Female,Post Graduation,Painting,51,40,96,81,90,85,3,3,40
+970,Aditya,29,Female,School,Sports,15,90,84,1,89,28,15,5,19
+975,Riya,57,Male,Post Graduation,Photography,83,47,46,93,80,43,97,44,56
+976,Ishita,19,Male,School,Painting,30,55,72,63,46,34,27,67,1
+978,Aanya,28,Male,Graduation,Painting,77,78,11,17,69,87,47,96,21
+979,Vihaan,72,Female,Graduation,Music,48,24,17,58,58,37,27,33,88
+984,Aarav,63,Female,School,Dancing,98,82,77,49,19,35,58,2,97
+986,Priya,88,Female,School,Sports,52,18,17,77,30,34,49,50,27
+988,Kabir,95,Female,School,Reading,67,46,45,24,36,90,98,34,73
+990,Kabir,41,Female,Post Graduation,Photography,90,44,54,38,47,88,91,29,72
+992,Ananya,26,Male,School,Sports,37,74,100,45,81,22,90,70,74
+996,Sai,45,Female,Graduation,Gaming,38,32,91,50,72,20,68,7,19
+1006,Sai,13,Female,Post Graduation,Sports,71,52,27,23,40,42,19,77,29
+1013,Arjun,73,Male,School,Writing,9,97,11,44,73,11,51,5,25
+1015,Arjun,79,Female,Graduation,Photography,35,43,60,44,73,95,29,36,78
+1030,Aanya,45,Male,Post Graduation,Writing,96,80,85,77,89,25,41,59,78
+1032,Rohan,97,Male,Graduation,Music,60,20,66,56,63,94,76,92,17
+1035,Myra,38,Male,School,Cooking,27,10,26,92,44,20,3,6,97
+1037,Zara,76,Male,Graduation,Cooking,50,17,43,56,94,76,52,66,37
+1039,Tanvi,50,Male,Graduation,Photography,1,17,14,60,7,22,13,53,68
+1056,Vivaan,14,Male,School,Sports,45,72,40,57,40,66,29,4,6
+1057,Priya,88,Male,School,Writing,12,17,21,42,1,6,35,17,99
+1060,Sanya,22,Female,Graduation,Sports,4,10,7,14,37,62,36,54,100
+1065,Ananya,53,Male,Graduation,Sports,54,87,0,86,26,1,24,57,88
+1067,Riya,40,Male,Post Graduation,Cooking,73,46,100,27,42,44,86,22,93
+1069,Aanya,78,Male,School,Reading,49,87,60,44,77,40,7,12,64
+1073,Myra,25,Female,School,Reading,72,45,45,18,9,50,32,54,96
+1085,Aditya,80,Female,School,Cooking,35,82,11,40,60,51,43,31,24
+1087,Aarav,95,Male,Graduation,Gaming,58,30,9,97,61,67,11,8,50
+1092,Aryan,27,Female,Graduation,Painting,79,57,2,28,58,0,33,20,93
+1116,Rohan,29,Female,Graduation,Music,55,48,62,74,75,86,73,4,81
+1120,Sai,47,Male,Graduation,Painting,50,28,94,42,35,36,81,33,23
+1121,Aarav,29,Male,Post Graduation,Painting,33,4,55,79,33,90,73,76,96
+1126,Priya,83,Female,School,Cooking,80,10,16,63,49,15,27,40,37
+1127,Riya,52,Female,Post Graduation,Painting,10,65,45,12,73,57,84,43,11
+1134,Kabir,39,Female,Post Graduation,Reading,31,77,92,77,4,69,74,50,93
+1136,Krishna,81,Female,Post Graduation,Dancing,27,30,71,82,29,84,48,93,53
+1137,Diya,48,Male,Graduation,Sports,7,38,54,80,60,14,12,7,36
+1149,Aditya,98,Female,School,Sports,40,49,14,98,5,23,7,92,51
+1151,Vivaan,58,Male,School,Music,37,50,86,74,30,34,27,0,39
+1154,Ananya,75,Female,Graduation,Writing,46,18,93,85,20,69,3,90,92
+1158,Rohan,19,Female,Graduation,Dancing,13,2,42,83,74,68,44,61,37
+1160,Kabir,31,Male,Graduation,Music,84,3,82,3,60,68,39,1,54
+1163,Kabir,44,Male,School,Writing,95,96,81,95,5,82,39,63,77
+1164,Krishna,43,Male,Post Graduation,Dancing,52,94,69,76,80,62,68,77,6
+1169,Ishita,19,Female,Graduation,Photography,84,18,37,29,22,99,37,24,9
+1170,Myra,70,Male,Post Graduation,Writing,76,72,76,63,29,27,69,92,39
+1176,Rohan,49,Male,Post Graduation,Painting,24,95,64,55,74,85,38,44,62
+1177,Aanya,22,Female,Graduation,Reading,95,7,30,8,55,9,68,9,2
+1189,Zara,8,Male,Post Graduation,Sports,38,99,0,37,50,32,50,24,3
+1190,Kabir,37,Female,Graduation,Photography,55,42,68,99,62,76,11,62,4
+1192,Riya,42,Male,Post Graduation,Photography,88,66,13,70,6,66,24,75,34
+1193,Aarav,1,Female,School,Music,11,76,87,82,2,52,9,42,67
+1198,Myra,37,Male,Graduation,Dancing,30,12,57,46,74,88,91,51,62
+1202,Arjun,16,Female,Graduation,Reading,8,63,85,24,5,9,42,46,33
+1207,Aarav,39,Male,Graduation,Gaming,71,42,54,28,73,19,40,33,54
+1208,Zara,91,Male,Graduation,Reading,41,38,73,95,15,30,37,22,94
+1209,Myra,10,Female,Graduation,Traveling,72,92,23,32,66,95,33,7,88
+1211,Sanya,80,Female,School,Traveling,28,41,2,98,44,16,5,0,67
+1219,Riya,54,Female,Post Graduation,Dancing,17,38,73,69,34,3,7,95,41
+1225,Krishna,69,Female,School,Sports,90,17,87,59,56,81,24,50,76
+1228,Vihaan,87,Male,School,Sports,58,20,11,48,6,28,62,3,34
+1231,Arjun,37,Male,School,Music,56,96,2,100,71,0,52,34,50
+1232,Aditya,73,Female,Post Graduation,Dancing,51,78,99,29,50,97,42,23,60
+1233,Aarav,95,Male,Post Graduation,Cooking,31,90,24,47,10,98,69,18,25
+1235,Aryan,39,Male,School,Sports,53,66,50,61,58,73,3,96,2
+1243,Myra,4,Male,Post Graduation,Cooking,57,5,52,17,13,63,37,5,9
+1248,Myra,22,Male,Graduation,Photography,56,48,90,34,32,7,89,29,13
+1253,Diya,9,Female,Post Graduation,Writing,7,50,57,70,19,22,87,12,37
+1254,Arjun,91,Female,School,Dancing,99,0,1,85,70,7,80,61,91
+1258,Ananya,65,Female,Graduation,Cooking,80,88,83,76,96,89,54,61,32
+1260,Aryan,19,Female,Graduation,Reading,54,97,1,87,97,52,12,53,49
+1264,Aryan,38,Male,Graduation,Music,88,55,79,55,9,29,93,28,20
+1268,Krishna,50,Male,Post Graduation,Music,98,20,44,53,42,87,9,1,52
+1271,Krishna,62,Male,School,Reading,51,75,88,36,99,54,51,3,93
+1277,Kabir,72,Female,School,Writing,35,85,70,9,68,87,53,96,65
+1279,Vihaan,26,Female,Graduation,Dancing,84,51,47,69,99,71,61,24,57
+1283,Vihaan,79,Female,School,Gaming,81,76,31,41,31,24,95,86,46
+1285,Priya,27,Female,Graduation,Gaming,6,17,75,38,5,91,50,51,75
+1287,Sanya,63,Male,School,Dancing,26,7,83,55,89,5,22,38,33
+1292,Kabir,82,Male,Post Graduation,Reading,57,31,64,99,64,0,49,31,16
+1300,Ishita,28,Female,School,Dancing,92,84,16,45,5,3,77,22,56
+1310,Aarav,50,Male,School,Painting,59,6,32,21,42,14,46,13,35
+1316,Riya,16,Female,Graduation,Music,14,91,57,82,73,92,22,44,5
+1319,Riya,59,Female,Graduation,Photography,72,25,26,21,51,59,37,2,93
+1322,Riya,36,Female,Post Graduation,Reading,63,94,94,22,5,49,96,49,32
+1324,Zara,62,Female,School,Painting,17,13,7,7,3,91,11,79,4
+1332,Aryan,14,Female,School,Sports,65,2,53,27,13,86,12,92,59
+1346,Kabir,19,Female,Post Graduation,Traveling,9,6,38,39,48,92,98,15,38
+1354,Ananya,85,Female,School,Reading,42,72,96,6,91,54,37,70,48
+1374,Tanvi,17,Female,School,Music,48,70,60,87,2,21,99,18,53
+1375,Vivaan,39,Female,Post Graduation,Gaming,32,79,12,52,9,89,16,9,65
+1376,Myra,8,Male,School,Dancing,89,60,16,35,60,76,42,4,80
+1390,Aditya,10,Male,Post Graduation,Painting,78,50,91,31,50,2,51,21,34
+1391,Rohan,48,Male,Post Graduation,Traveling,92,100,60,39,73,28,32,13,46
+1394,Myra,10,Female,Post Graduation,Gaming,100,19,59,50,31,40,80,58,29
+1402,Sai,49,Female,School,Photography,32,12,74,60,93,49,18,93,79
+1403,Kabir,46,Female,School,Music,8,28,32,71,68,39,43,55,47
+1406,Priya,73,Male,School,Traveling,100,17,2,89,58,48,40,20,84
+1408,Sanya,75,Male,Post Graduation,Reading,3,62,57,3,36,24,36,90,85
+1412,Ananya,53,Female,Graduation,Traveling,58,55,29,35,92,73,53,100,85
+1413,Myra,94,Male,School,Dancing,24,65,91,5,71,7,75,18,52
+1414,Aanya,72,Female,Post Graduation,Painting,22,53,10,52,96,38,34,12,79
+1415,Priya,89,Female,School,Music,47,71,42,53,27,66,67,43,12
+1420,Aanya,36,Female,School,Dancing,8,30,15,40,75,7,97,51,37
+1423,Rohan,83,Female,Graduation,Photography,82,78,53,41,64,4,41,76,1
+1427,Aditya,63,Male,Graduation,Dancing,43,9,41,33,49,56,69,1,13
+1435,Sai,66,Female,School,Reading,52,54,76,51,24,8,41,39,75
+1438,Vivaan,80,Male,Graduation,Sports,56,16,66,78,78,76,10,69,62
+1455,Aarav,76,Male,Post Graduation,Music,73,7,30,10,86,70,24,22,7
+1461,Kabir,87,Male,Post Graduation,Gaming,85,94,67,64,12,29,6,98,99
+1463,Ananya,82,Female,Graduation,Photography,40,26,4,2,68,67,54,49,77
+1471,Krishna,12,Female,Graduation,Painting,9,60,6,77,96,55,82,51,86
+1472,Sai,64,Female,School,Sports,44,46,11,45,87,13,95,99,72
+1480,Tanvi,75,Female,Post Graduation,Painting,70,70,2,6,47,94,20,24,28
+1485,Tanvi,23,Male,Graduation,Photography,91,61,69,60,62,7,20,21,71
+1487,Vivaan,81,Female,Graduation,Cooking,82,67,19,82,16,77,82,68,62
+1499,Sai,28,Male,School,Sports,27,66,63,84,51,83,98,49,75
+1500,Aditya,43,Female,Graduation,Cooking,40,91,3,37,60,35,60,100,59
+1505,Arjun,12,Female,School,Gaming,10,65,66,43,63,79,27,63,25
+1513,Zara,3,Male,Post Graduation,Photography,80,38,37,57,76,18,27,48,59
+1516,Zara,10,Male,Post Graduation,Reading,71,77,60,48,65,38,59,35,68
+1518,Ishita,30,Female,Post Graduation,Gaming,46,46,60,84,65,89,91,85,78
+1533,Vihaan,19,Female,School,Dancing,55,37,54,91,77,46,100,30,50
+1534,Aarav,63,Female,Post Graduation,Reading,30,65,78,31,45,4,70,19,27
+1539,Diya,48,Male,School,Writing,45,9,56,93,37,29,8,40,89
+1541,Ishita,9,Female,Post Graduation,Gaming,32,24,34,16,87,71,51,49,90
+1542,Arjun,98,Male,Post Graduation,Music,32,31,45,31,53,81,13,48,5
+1544,Krishna,84,Female,Graduation,Writing,43,61,85,17,21,26,74,93,1
+1545,Sanya,47,Male,Graduation,Cooking,41,5,61,13,90,37,77,74,44
+1547,Krishna,65,Male,Post Graduation,Painting,23,69,32,15,33,19,52,89,69
+1551,Ishita,51,Male,Post Graduation,Cooking,59,86,85,63,57,66,6,17,38
+1555,Myra,68,Female,School,Reading,31,92,35,27,56,99,2,61,22
+1563,Aarav,60,Female,Graduation,Writing,71,31,16,21,41,28,19,99,44
+1571,Zara,44,Female,Graduation,Writing,18,87,86,77,95,20,80,32,70
+1573,Vihaan,73,Female,Post Graduation,Painting,93,18,16,44,71,33,91,17,39
+1581,Aryan,93,Female,School,Dancing,42,25,96,22,51,9,8,24,78
+1583,Myra,70,Female,Graduation,Music,18,53,2,19,47,90,95,29,2
+1584,Krishna,58,Male,Graduation,Reading,8,35,95,83,56,90,48,38,66
+1586,Zara,38,Female,Post Graduation,Music,59,99,11,79,1,100,17,26,16
+1587,Rohan,44,Female,Graduation,Photography,17,42,27,5,83,4,78,51,14
+1588,Myra,55,Female,School,Traveling,35,65,68,50,26,46,11,44,75
+1592,Arjun,71,Male,Post Graduation,Reading,52,92,52,65,59,87,63,31,0
+1597,Sai,81,Female,Graduation,Writing,16,93,9,29,49,11,37,25,5
+1602,Aditya,94,Female,Graduation,Music,79,34,94,98,93,29,52,60,38
+1605,Priya,62,Female,Graduation,Painting,50,56,64,100,18,49,36,89,64
+1609,Aditya,28,Female,Post Graduation,Photography,54,5,14,4,22,41,100,100,87
+1613,Arjun,96,Male,School,Photography,92,76,29,1,83,10,9,52,21
+1620,Priya,72,Female,School,Photography,69,42,67,47,95,10,29,19,57
+1621,Aryan,73,Female,Graduation,Reading,46,52,88,39,58,19,48,35,91
+1622,Aryan,18,Female,Post Graduation,Sports,60,91,90,51,21,30,59,22,25
+1626,Priya,42,Female,Post Graduation,Dancing,78,37,96,74,99,49,10,38,88
+1634,Riya,89,Female,Graduation,Photography,37,41,92,77,49,36,22,17,1
+1636,Sai,74,Female,Graduation,Reading,82,11,28,15,19,43,79,94,3
+1639,Sai,62,Female,Post Graduation,Sports,18,35,94,58,21,14,55,60,55
+1649,Aarav,23,Male,School,Traveling,96,46,41,6,92,84,67,71,22
+1650,Ananya,38,Male,School,Dancing,21,91,44,14,46,61,95,86,36
+1651,Sai,76,Male,Graduation,Painting,82,26,16,14,40,20,58,22,16
+1652,Zara,32,Female,Graduation,Gaming,51,4,59,30,100,25,67,29,94
+1654,Kabir,14,Female,Post Graduation,Gaming,86,64,68,65,90,68,97,38,85
+1662,Aanya,20,Male,School,Cooking,90,79,49,73,75,100,24,54,18
+1666,Tanvi,59,Male,Graduation,Gaming,60,55,59,63,35,47,92,16,67
+1671,Ishita,77,Female,Post Graduation,Dancing,86,93,15,67,26,55,91,34,6
+1672,Myra,44,Female,Graduation,Sports,90,79,12,38,78,78,16,91,23
+1681,Aryan,25,Female,Graduation,Traveling,26,66,2,4,22,19,41,30,46
+1687,Arjun,63,Male,Post Graduation,Writing,2,26,19,1,38,58,94,31,91
+1696,Vihaan,11,Female,Post Graduation,Writing,76,22,37,62,37,6,34,90,59
+1699,Priya,95,Male,School,Dancing,29,42,68,42,35,48,59,84,17
+1700,Zara,8,Female,Graduation,Sports,73,38,14,87,58,88,11,26,81
+1704,Aditya,4,Male,Graduation,Reading,47,58,12,63,75,91,13,30,99
+1708,Myra,91,Male,Post Graduation,Reading,94,13,2,48,89,6,56,96,15
+1709,Diya,44,Female,Post Graduation,Dancing,84,38,11,72,40,60,42,90,38
+1711,Zara,26,Male,School,Dancing,62,90,66,71,70,97,56,5,44
+1717,Rohan,58,Male,School,Sports,0,33,27,26,8,36,60,52,73
+1720,Sai,42,Female,Post Graduation,Sports,15,49,23,15,9,74,59,9,17
+1727,Sanya,27,Female,School,Traveling,39,95,56,57,97,31,74,37,7
+1737,Rohan,98,Female,Graduation,Gaming,61,25,55,99,35,34,97,64,95
+1741,Diya,73,Female,Graduation,Traveling,45,7,45,10,67,59,4,33,98
+1744,Priya,6,Female,Post Graduation,Traveling,0,94,90,76,54,87,77,17,90
+1754,Arjun,47,Female,Graduation,Painting,86,96,43,63,32,94,19,26,31
+1757,Sai,90,Male,School,Sports,57,33,20,80,14,54,13,97,47
+1776,Myra,18,Male,Graduation,Photography,1,79,94,31,26,60,92,18,64
+1779,Arjun,40,Female,School,Photography,51,59,76,15,51,72,68,22,34
+1789,Aanya,18,Male,Post Graduation,Music,81,73,61,77,82,17,88,46,87
+1796,Tanvi,27,Female,Post Graduation,Painting,58,96,55,13,13,87,43,60,50
+1808,Diya,93,Male,Graduation,Gaming,15,10,62,39,58,16,27,1,40
+1811,Zara,85,Male,Graduation,Traveling,96,83,67,46,1,30,29,84,88
+1816,Tanvi,85,Male,Graduation,Cooking,96,30,76,66,97,56,44,63,55
+1818,Rohan,92,Female,Post Graduation,Photography,5,96,2,74,18,58,56,37,8
+1822,Sai,20,Male,Graduation,Writing,64,30,9,77,7,57,48,11,11
+1823,Aditya,54,Female,School,Music,76,11,55,12,46,1,1,70,78
+1824,Vihaan,62,Female,Post Graduation,Writing,49,80,87,31,29,71,88,30,87
+1835,Priya,13,Female,School,Reading,74,93,97,21,92,76,30,97,12
+1844,Riya,79,Female,Post Graduation,Reading,97,50,31,25,44,49,91,66,84
+1845,Zara,93,Female,Post Graduation,Reading,49,13,26,31,66,19,89,96,19
+1849,Rohan,84,Female,School,Reading,99,59,90,89,56,70,55,35,37
+1852,Vihaan,13,Male,School,Dancing,1,30,96,80,33,26,30,49,99
+1854,Zara,66,Male,Post Graduation,Music,93,10,61,69,20,23,75,60,52
+1855,Arjun,78,Male,Graduation,Gaming,52,7,25,37,86,64,12,20,22
+1858,Tanvi,4,Male,Post Graduation,Photography,14,42,80,99,65,60,39,6,67
+1862,Myra,78,Male,School,Writing,32,15,63,85,19,11,34,53,80
+1866,Tanvi,48,Male,Post Graduation,Painting,47,98,45,18,91,39,15,1,88
+1873,Aarav,59,Male,Post Graduation,Photography,70,59,42,92,26,82,45,44,74
+1876,Aarav,29,Male,Post Graduation,Traveling,55,68,72,25,47,28,76,51,35
+1879,Priya,94,Male,School,Writing,45,70,78,37,56,70,57,34,33
+1880,Krishna,97,Male,School,Sports,82,80,29,66,57,15,35,98,86
+1885,Krishna,22,Male,Graduation,Painting,69,32,42,36,13,40,72,28,99
+1905,Aryan,50,Male,School,Reading,79,6,39,50,90,16,70,78,1
+1920,Aditya,73,Male,Post Graduation,Photography,45,47,29,96,87,70,16,23,52
+1923,Sanya,59,Male,School,Music,56,32,76,15,7,73,42,20,14
+1924,Rohan,62,Female,Post Graduation,Sports,76,72,74,66,22,37,47,2,95
+1929,Diya,24,Male,School,Sports,85,69,38,46,72,19,33,60,21
+1931,Vivaan,14,Female,School,Dancing,57,50,27,44,89,61,19,53,93
+1943,Myra,98,Female,School,Photography,57,35,65,35,74,61,57,64,98
+1944,Ishita,71,Female,School,Gaming,71,0,21,79,25,69,25,3,2
+1945,Sanya,41,Male,Post Graduation,Reading,83,82,55,7,3,75,72,57,100
+1950,Aryan,23,Female,Graduation,Dancing,59,48,43,85,41,0,62,4,17
+1956,Aryan,93,Female,Post Graduation,Writing,20,64,19,65,99,51,90,44,100
+1961,Rohan,11,Female,Graduation,Dancing,100,68,51,49,80,69,22,22,75
+1963,Diya,57,Male,Post Graduation,Music,32,5,83,27,51,5,37,23,12
+1982,Kabir,43,Female,Post Graduation,Cooking,5,86,34,60,68,6,63,91,95
+1990,Myra,44,Female,Graduation,Sports,65,21,53,19,91,97,42,68,35
+1992,Rohan,63,Female,School,Sports,45,30,13,40,3,39,27,6,29
+1994,Myra,82,Female,Post Graduation,Painting,10,88,42,92,19,4,8,96,18
+2002,Myra,41,Female,School,Writing,21,43,54,75,42,72,86,29,41
+2003,Ananya,94,Male,Graduation,Photography,66,86,35,66,92,62,80,28,90
+2009,Ananya,78,Male,School,Dancing,63,83,10,58,30,12,67,100,88
+2018,Aanya,75,Female,School,Gaming,32,78,89,58,54,59,77,13,89
+2025,Priya,88,Female,Graduation,Sports,17,74,78,28,72,15,26,22,39
+2026,Myra,33,Male,Post Graduation,Painting,78,21,34,15,71,1,56,96,38
+2027,Diya,73,Male,Graduation,Music,26,98,69,53,29,75,1,5,0
+2029,Riya,57,Female,School,Writing,8,69,6,33,19,55,8,88,49
+2030,Sanya,78,Female,Graduation,Writing,61,39,49,30,83,87,57,6,42
+2038,Myra,77,Female,Post Graduation,Photography,79,36,40,74,4,72,90,95,11
+2042,Aanya,82,Female,Post Graduation,Gaming,43,83,28,12,73,46,54,23,58
+2047,Sanya,66,Male,Graduation,Reading,71,69,80,16,14,15,18,20,75
+2055,Sai,24,Female,Graduation,Cooking,28,59,8,83,57,2,100,62,0
+2058,Zara,15,Female,Post Graduation,Painting,50,26,54,11,66,85,56,16,76
+2062,Myra,27,Male,Graduation,Sports,24,20,46,24,85,79,3,92,5
+2068,Ishita,10,Female,School,Gaming,52,19,28,26,92,99,82,11,96
+2072,Arjun,82,Male,School,Painting,15,36,33,71,30,52,28,57,93
+2078,Tanvi,15,Female,School,Writing,94,73,50,85,22,0,60,65,30
+2079,Priya,81,Female,Graduation,Photography,80,73,0,48,73,28,47,41,23
+2080,Priya,89,Male,Post Graduation,Photography,6,45,31,81,30,83,16,0,62
+2084,Aditya,96,Female,Graduation,Painting,37,10,28,56,3,75,15,41,22
+2097,Myra,64,Male,School,Sports,78,15,45,99,69,75,70,52,57
+2105,Aryan,93,Male,Graduation,Music,8,42,33,91,52,55,28,13,26
+2107,Vihaan,3,Male,School,Writing,35,6,59,75,95,51,59,69,98
+2111,Arjun,14,Female,Graduation,Cooking,48,55,8,59,23,6,44,59,75
+2136,Aryan,75,Female,Post Graduation,Sports,57,69,59,87,26,22,73,41,2
+2137,Vivaan,47,Female,Graduation,Cooking,64,81,32,78,4,5,93,91,8
+2141,Krishna,98,Female,Graduation,Gaming,30,17,83,77,30,48,85,78,67
+2146,Aryan,85,Male,Post Graduation,Sports,67,29,12,12,62,10,62,99,64
+2173,Vivaan,68,Female,School,Photography,100,24,21,91,84,23,99,36,50
+2175,Krishna,68,Male,Post Graduation,Gaming,29,50,33,14,41,38,68,7,61
+2176,Rohan,87,Male,Post Graduation,Reading,69,60,81,80,29,16,36,18,14
+2179,Myra,74,Female,School,Traveling,41,16,71,33,24,83,38,63,17
+2203,Vivaan,38,Male,School,Painting,82,53,26,41,32,3,30,17,80
+2205,Riya,29,Male,Post Graduation,Traveling,77,63,0,28,3,69,79,25,33
+2220,Aanya,61,Female,School,Music,88,81,25,37,59,42,87,54,14
+2225,Priya,37,Female,School,Photography,86,16,8,99,13,92,65,97,31
+2232,Priya,89,Female,Post Graduation,Dancing,14,58,1,42,13,76,38,10,68
+2244,Sanya,28,Male,Graduation,Music,19,82,82,67,8,51,4,98,91
+2253,Riya,89,Male,Post Graduation,Painting,16,7,43,72,87,87,3,50,67
+2259,Krishna,85,Male,Graduation,Photography,45,76,22,76,89,23,82,0,1
+2260,Myra,88,Female,Post Graduation,Gaming,97,17,47,10,67,100,96,22,65
+2261,Aditya,36,Female,School,Reading,51,33,29,97,5,15,29,49,37
+2264,Priya,1,Female,School,Gaming,59,3,55,9,18,45,54,18,90
+2281,Aarav,43,Male,School,Dancing,89,4,10,36,5,15,20,80,27
+2284,Ananya,54,Male,Graduation,Painting,12,55,87,48,51,1,79,4,1
+2288,Aditya,95,Male,Post Graduation,Cooking,12,87,29,91,61,84,7,41,65
+2290,Riya,73,Male,Post Graduation,Music,91,1,53,56,67,65,81,46,77
+2309,Diya,39,Male,School,Sports,71,62,30,89,77,45,7,51,3
+2312,Sai,24,Male,Graduation,Writing,93,9,0,61,90,83,39,37,93
+2319,Ananya,30,Female,Post Graduation,Painting,7,58,67,22,8,9,16,24,1
+2320,Aanya,90,Male,Graduation,Gaming,61,11,54,30,39,23,99,80,41
+2321,Sanya,41,Male,Graduation,Dancing,58,88,75,87,85,12,53,38,53
+2332,Ishita,79,Female,Graduation,Cooking,43,81,41,38,5,62,25,81,33
+2334,Aarav,29,Male,School,Dancing,85,37,25,24,71,48,90,75,47
+2335,Riya,30,Male,Post Graduation,Cooking,11,23,48,47,28,40,50,38,44
+2344,Arjun,62,Male,School,Writing,5,18,61,54,28,30,68,85,32
+2345,Priya,24,Male,Graduation,Cooking,16,77,80,1,20,69,59,6,75
+2346,Riya,14,Female,Graduation,Music,12,72,91,53,56,90,72,82,1
+2349,Arjun,30,Female,Graduation,Writing,59,93,1,15,70,44,87,30,88
+2352,Aditya,21,Male,Post Graduation,Dancing,29,95,41,88,30,35,24,59,7
+2356,Myra,49,Male,Post Graduation,Gaming,35,6,34,49,56,26,85,99,75
+2357,Ananya,80,Female,Post Graduation,Dancing,13,27,5,91,55,79,91,32,40
+2369,Rohan,95,Female,Post Graduation,Dancing,27,60,23,87,49,11,73,24,82
+2373,Vihaan,49,Female,School,Reading,42,71,31,26,98,97,43,45,59
+2375,Riya,16,Female,School,Traveling,42,26,63,43,6,21,26,70,97
+2379,Aditya,29,Male,Graduation,Sports,70,52,37,41,40,93,80,58,98
+2381,Krishna,93,Female,Graduation,Music,69,56,89,39,27,82,46,45,50
+2385,Riya,48,Female,Post Graduation,Cooking,71,53,53,30,26,60,27,79,8
+2386,Myra,54,Female,School,Painting,95,67,80,72,33,5,75,64,45
+2387,Sanya,40,Female,School,Gaming,59,24,71,30,92,92,45,40,48
+2401,Arjun,4,Male,Post Graduation,Cooking,18,78,47,31,31,22,14,69,51
+2417,Aditya,60,Female,Post Graduation,Gaming,98,17,76,32,36,93,11,33,1
+2418,Priya,47,Female,School,Reading,76,7,10,96,68,26,2,11,14
+2419,Aanya,72,Male,School,Cooking,76,97,37,77,88,1,22,61,97
+2423,Rohan,9,Female,Graduation,Painting,55,14,9,98,59,41,63,68,52
+2426,Sai,84,Female,Post Graduation,Traveling,7,46,60,90,15,30,89,2,91
+2431,Ishita,55,Male,Graduation,Painting,3,30,14,5,99,92,6,49,17
+2434,Aarav,24,Male,Graduation,Writing,72,34,44,70,37,78,34,24,39
+2440,Arjun,19,Female,Post Graduation,Painting,13,47,56,77,95,96,85,21,6
+2450,Sai,77,Female,School,Traveling,79,96,85,67,56,63,23,49,12
+2455,Arjun,72,Female,Post Graduation,Cooking,86,13,51,80,3,32,38,19,49
+2457,Aarav,79,Male,School,Writing,1,65,60,36,23,50,77,55,37
+2461,Myra,48,Male,Post Graduation,Sports,95,75,10,4,94,100,21,14,26
+2475,Tanvi,31,Female,Post Graduation,Sports,75,25,33,8,23,42,31,67,51
+2477,Aarav,96,Female,Graduation,Painting,93,47,93,76,42,90,49,45,93
+2480,Krishna,48,Male,Graduation,Sports,20,83,98,8,95,33,16,21,79
+2482,Sai,53,Female,Graduation,Traveling,86,53,48,23,25,61,1,12,42
+2487,Arjun,17,Female,Post Graduation,Writing,2,49,59,34,86,4,14,72,84
+2493,Vihaan,15,Female,Post Graduation,Painting,28,8,46,16,89,58,91,4,73
+2511,Kabir,13,Female,School,Traveling,74,64,44,76,10,26,96,66,63
+2525,Aryan,83,Female,Graduation,Painting,57,67,34,23,93,31,4,93,34
+2528,Aryan,1,Male,School,Dancing,76,51,100,88,34,42,76,87,28
+2533,Arjun,79,Female,Post Graduation,Cooking,76,66,27,28,98,24,10,28,9
+2534,Zara,26,Male,Post Graduation,Music,90,28,21,63,65,82,32,32,8
+2545,Priya,43,Male,Post Graduation,Gaming,56,48,68,27,2,86,39,93,79
+2549,Tanvi,96,Male,School,Dancing,4,42,99,45,68,41,81,32,93
+2554,Vihaan,14,Female,Post Graduation,Painting,94,63,52,37,5,18,36,90,52
+2560,Sai,4,Male,Graduation,Gaming,86,76,76,20,65,53,17,97,10
+2567,Sai,57,Male,Post Graduation,Music,10,41,51,76,40,29,17,29,93
+2575,Aryan,29,Male,Post Graduation,Cooking,17,73,0,90,88,92,56,20,88
+2576,Ishita,19,Male,Post Graduation,Dancing,2,85,16,7,49,48,63,84,49
+2581,Sanya,46,Female,Graduation,Writing,100,29,98,19,82,45,48,45,33
+2589,Arjun,46,Female,School,Dancing,8,38,65,53,43,51,29,57,71
+2595,Tanvi,23,Male,School,Reading,61,9,63,55,8,21,2,13,28
+2606,Aarav,22,Male,Graduation,Reading,25,9,69,69,92,87,89,55,23
+2609,Krishna,84,Female,School,Sports,37,21,80,37,37,28,14,85,23
+2614,Vivaan,1,Female,School,Music,22,3,62,13,37,83,2,89,95
+2619,Aryan,29,Female,Post Graduation,Reading,40,48,80,17,2,37,16,34,5
+2622,Myra,92,Female,Post Graduation,Gaming,85,43,32,16,85,24,59,58,44
+2624,Vivaan,5,Male,Graduation,Cooking,94,14,33,14,85,56,24,90,38
+2626,Tanvi,13,Female,Graduation,Cooking,79,55,54,8,10,58,80,64,89
+2627,Aditya,69,Female,School,Traveling,81,21,37,66,96,87,16,83,57
+2629,Krishna,43,Female,Graduation,Traveling,21,91,53,78,92,13,88,35,24
+2632,Ananya,36,Female,Graduation,Cooking,0,15,31,54,56,74,48,77,5
+2634,Sanya,94,Male,Graduation,Writing,78,9,33,47,12,25,78,14,50
+2639,Aryan,9,Female,Graduation,Music,73,4,99,26,99,9,46,37,57
+2640,Diya,60,Male,Post Graduation,Photography,12,65,13,29,33,50,73,91,68
+2643,Vihaan,16,Female,Post Graduation,Dancing,9,26,1,22,24,78,98,25,26
+2657,Ishita,11,Female,Graduation,Painting,92,81,86,91,2,15,100,70,14
+2663,Aanya,24,Male,School,Cooking,20,74,18,100,84,50,70,16,64
+2680,Arjun,74,Female,Graduation,Reading,12,27,93,38,72,90,71,27,56
+2681,Rohan,55,Female,Graduation,Writing,79,24,58,11,52,97,46,72,13
+2685,Aditya,67,Female,School,Music,79,54,88,1,26,47,93,74,8
+2698,Arjun,72,Male,School,Sports,78,3,12,78,14,26,33,58,77
+2699,Riya,41,Male,Post Graduation,Photography,42,81,17,92,86,20,10,94,28
+2709,Krishna,94,Male,Graduation,Photography,49,28,67,37,8,71,50,98,69
+2714,Sanya,73,Female,School,Writing,77,53,29,17,95,22,93,56,35
+2724,Zara,69,Male,Graduation,Painting,50,27,14,20,41,65,87,64,73
+2725,Priya,1,Female,School,Writing,57,42,63,4,43,88,67,95,100
+2729,Diya,66,Male,Post Graduation,Cooking,40,13,79,45,45,61,98,84,61
+2736,Zara,92,Male,Post Graduation,Photography,19,55,100,91,26,38,24,32,46
+2739,Arjun,17,Male,Post Graduation,Painting,56,35,53,38,9,63,23,56,35
+2742,Tanvi,10,Female,School,Photography,4,15,53,14,70,44,74,44,16
+2748,Myra,48,Female,Graduation,Music,87,18,84,96,94,38,52,53,27
+2751,Riya,12,Male,Post Graduation,Music,16,39,40,91,5,3,40,79,51
+2752,Aditya,55,Male,Post Graduation,Sports,43,0,52,20,27,72,57,13,30
+2753,Aarav,14,Male,School,Painting,100,77,5,61,34,3,25,100,95
+2754,Diya,53,Female,Post Graduation,Dancing,73,35,35,72,29,65,70,72,42
+2761,Sai,85,Male,Post Graduation,Writing,51,46,98,16,89,52,59,51,90
+2765,Aanya,43,Male,Post Graduation,Cooking,67,95,38,19,45,25,87,78,25
+2774,Vihaan,74,Female,School,Painting,38,57,71,88,30,7,16,60,82
+2779,Vihaan,43,Female,Post Graduation,Reading,34,2,9,11,37,62,3,64,98
+2781,Aditya,50,Female,Post Graduation,Writing,31,3,56,68,11,34,31,16,17
+2782,Kabir,68,Male,School,Sports,46,96,8,78,75,60,92,28,30
+2786,Vihaan,10,Male,Post Graduation,Reading,70,87,55,20,55,55,66,98,37
+2806,Diya,19,Male,Graduation,Traveling,98,46,38,33,26,13,96,94,30
+2808,Sanya,39,Female,Post Graduation,Writing,34,5,8,17,55,66,80,90,48
+2814,Kabir,6,Male,Post Graduation,Painting,14,20,43,97,14,8,26,16,87
+2816,Kabir,52,Female,Graduation,Reading,16,81,93,26,31,81,45,25,38
+2820,Tanvi,29,Female,Post Graduation,Dancing,65,99,86,90,92,81,91,85,64
+2822,Krishna,82,Female,School,Reading,49,65,73,1,67,11,82,95,77
+2824,Ananya,88,Female,School,Music,97,25,47,16,37,65,9,38,93
+2825,Tanvi,47,Female,School,Reading,63,62,35,5,66,51,48,52,5
+2826,Vihaan,48,Male,Graduation,Sports,37,73,39,4,95,83,16,35,86
+2831,Priya,31,Male,Graduation,Sports,97,51,15,30,45,96,100,88,81
+2834,Vihaan,29,Male,Post Graduation,Music,98,2,83,45,89,92,81,55,68
+2851,Myra,16,Female,School,Cooking,2,85,12,10,56,25,100,27,20
+2857,Vihaan,68,Male,Graduation,Music,49,15,49,67,79,8,94,12,8
+2873,Krishna,59,Female,Graduation,Reading,97,77,49,60,13,33,73,45,86
+2882,Aditya,13,Male,Graduation,Traveling,93,99,24,28,1,43,67,81,57
+2884,Rohan,26,Female,Graduation,Gaming,2,42,87,7,70,97,90,96,34
+2887,Tanvi,93,Female,Graduation,Traveling,2,18,52,32,13,81,98,30,58
+2888,Priya,21,Male,Post Graduation,Traveling,96,87,65,67,84,87,60,44,38
+2899,Priya,66,Male,Post Graduation,Writing,41,31,87,62,24,33,31,93,98
+2902,Krishna,17,Male,School,Writing,6,95,0,70,11,98,63,71,51
+2906,Tanvi,74,Female,School,Writing,39,80,98,21,55,22,90,67,9
+2915,Krishna,20,Female,School,Reading,71,46,64,16,48,40,64,9,96
+2921,Tanvi,67,Male,Graduation,Writing,26,5,82,5,28,58,49,80,45
+2923,Vihaan,77,Male,Post Graduation,Cooking,3,58,51,24,67,8,14,40,82
+2927,Zara,7,Female,Graduation,Sports,42,16,39,92,41,34,16,92,99
+2929,Vivaan,54,Female,Post Graduation,Music,5,74,77,22,39,67,40,51,87
+2931,Kabir,1,Female,School,Photography,65,61,58,94,7,50,51,32,0
+2938,Vivaan,6,Female,Post Graduation,Gaming,61,48,93,3,16,6,6,56,57
+2941,Arjun,12,Female,Graduation,Traveling,77,85,14,53,33,39,59,83,60
+2946,Aditya,97,Female,School,Cooking,64,58,46,15,65,7,7,40,96
+2956,Sai,3,Female,Post Graduation,Writing,59,29,16,78,2,28,19,65,50
+2960,Tanvi,54,Female,School,Gaming,4,51,18,77,70,91,15,87,57
+2976,Riya,36,Male,School,Writing,56,47,80,54,26,97,27,43,89
+2978,Diya,15,Male,Post Graduation,Sports,35,34,91,50,61,74,13,79,27
+2981,Tanvi,5,Female,School,Cooking,12,19,72,39,92,68,65,94,31
+2986,Arjun,59,Male,Graduation,Music,24,31,97,19,82,35,41,12,62
+2990,Aarav,17,Male,Graduation,Sports,53,20,54,85,31,93,12,33,37
+2992,Krishna,38,Male,School,Gaming,61,68,88,59,71,31,88,93,56
+2993,Vihaan,18,Male,Graduation,Sports,95,89,55,35,58,70,68,34,68
+2996,Ananya,3,Female,Post Graduation,Sports,96,79,17,49,56,60,76,88,46
+3001,Aanya,78,Female,Graduation,Photography,30,19,43,70,95,76,6,19,96
+3010,Tanvi,16,Female,Graduation,Sports,47,45,32,76,95,91,89,50,97
+3013,Tanvi,84,Female,Graduation,Photography,53,96,76,71,24,96,91,84,15
+3021,Ishita,81,Male,Graduation,Music,52,58,7,4,41,57,16,4,42
+3031,Zara,88,Female,Graduation,Reading,58,14,17,46,13,41,76,2,19
+3034,Zara,37,Female,School,Cooking,57,8,10,40,66,95,67,70,93
+3039,Vihaan,10,Male,Post Graduation,Sports,30,84,72,87,88,7,46,4,34
+3041,Ananya,11,Female,Graduation,Traveling,33,25,15,3,4,42,11,60,39
+3043,Aryan,8,Male,Graduation,Music,70,75,91,53,5,46,69,8,42
+3060,Aditya,21,Male,School,Music,76,51,29,63,44,84,94,90,13
+3079,Riya,28,Male,Graduation,Traveling,60,100,77,5,9,90,9,61,82
+3081,Kabir,59,Female,Graduation,Traveling,38,49,29,93,24,91,22,8,89
+3085,Priya,4,Female,Graduation,Writing,52,97,46,80,26,66,94,37,65
+3086,Krishna,23,Male,School,Dancing,20,96,34,16,94,81,39,32,0
+3089,Diya,13,Female,School,Painting,12,22,93,6,47,23,7,99,59
+3096,Rohan,91,Female,Graduation,Traveling,1,14,5,58,14,58,61,43,3
+3101,Vivaan,55,Female,Graduation,Photography,90,19,56,18,50,44,98,50,22
+3104,Aryan,9,Male,Post Graduation,Reading,67,89,61,84,51,16,43,21,69
+3107,Aarav,77,Male,School,Cooking,83,97,95,84,56,52,96,72,64
+3130,Sai,71,Male,School,Reading,32,98,95,96,94,60,56,80,33
+3132,Priya,36,Male,Graduation,Traveling,50,51,100,97,9,74,61,83,41
+3138,Ananya,98,Female,Post Graduation,Music,76,63,26,73,19,99,53,29,33
+3142,Aditya,21,Female,Graduation,Writing,79,65,51,87,2,16,72,68,18
+3143,Aanya,96,Male,Post Graduation,Reading,37,90,64,54,63,81,89,14,99
+3148,Riya,23,Male,Graduation,Cooking,89,10,34,96,9,61,13,89,26
+3159,Vihaan,7,Male,School,Painting,98,97,79,67,95,71,41,4,82
+3171,Sai,9,Female,School,Dancing,72,90,77,8,42,50,1,57,85
+3172,Sanya,37,Female,Post Graduation,Reading,73,89,67,47,15,52,45,97,49
+3178,Diya,28,Female,School,Music,7,26,54,89,25,97,15,3,71
+3186,Sai,45,Male,School,Painting,36,56,41,34,34,20,16,85,27
+3188,Vihaan,99,Male,Graduation,Traveling,78,45,21,4,74,94,80,63,81
+3189,Ananya,89,Female,Post Graduation,Writing,32,74,27,78,67,25,55,65,45
+3191,Vihaan,98,Female,Post Graduation,Reading,47,28,38,57,72,49,4,73,68
+3213,Tanvi,17,Female,School,Reading,37,50,88,47,98,45,61,73,90
+3214,Sanya,11,Female,School,Dancing,16,81,93,95,20,6,59,37,98
+3218,Vivaan,38,Male,Post Graduation,Photography,36,45,1,74,42,27,73,17,73
+3223,Priya,46,Male,School,Sports,94,5,25,51,80,70,21,70,41
+3224,Aarav,17,Female,Graduation,Cooking,72,95,55,29,99,3,84,10,79
+3240,Sanya,75,Female,Graduation,Reading,76,80,68,65,6,9,27,37,30
+3245,Aryan,11,Female,Graduation,Music,0,88,6,71,85,59,88,32,7
+3248,Aanya,92,Male,Graduation,Photography,1,23,96,10,10,44,16,29,58
+3262,Krishna,84,Female,School,Writing,29,28,50,5,43,91,83,32,0
+3265,Riya,28,Male,Graduation,Reading,2,48,6,44,4,100,83,18,12
+3277,Sai,99,Male,School,Reading,59,73,0,72,75,9,68,57,18
+3285,Aanya,56,Female,Graduation,Painting,26,11,77,70,38,43,16,54,8
+3290,Priya,90,Male,School,Sports,39,2,57,66,34,23,25,86,3
+3298,Priya,91,Female,Graduation,Cooking,81,36,46,6,30,97,54,12,81
+3303,Vivaan,43,Female,Graduation,Music,71,16,26,36,70,87,61,60,77
+3315,Diya,25,Female,Graduation,Traveling,96,42,51,40,11,67,12,73,51
+3316,Aditya,25,Male,School,Gaming,37,86,7,81,44,100,18,21,50
+3322,Ananya,13,Female,School,Reading,92,87,2,25,3,6,76,95,64
+3326,Aryan,90,Female,Post Graduation,Painting,37,22,20,46,95,25,43,40,58
+3330,Vivaan,54,Male,Graduation,Traveling,80,50,41,73,89,45,56,25,35
+3331,Aryan,33,Male,Graduation,Dancing,81,35,8,92,97,34,2,34,50
+3351,Diya,90,Female,Post Graduation,Dancing,21,86,97,44,58,15,70,66,68
+3358,Tanvi,92,Male,Post Graduation,Cooking,39,75,72,9,35,86,86,12,53
+3360,Myra,72,Female,School,Painting,71,8,45,54,72,90,55,51,81
+3376,Riya,62,Female,Post Graduation,Cooking,13,3,58,9,67,20,26,45,77
+3377,Vihaan,77,Male,School,Writing,15,79,92,53,7,81,63,79,62
+3378,Vivaan,5,Female,Graduation,Music,94,46,9,51,55,11,18,63,94
+3383,Aditya,90,Male,Post Graduation,Music,9,22,80,63,67,67,16,5,53
+3384,Sanya,75,Female,School,Photography,41,99,58,20,16,32,39,29,80
+3385,Sai,1,Female,Post Graduation,Photography,7,20,54,69,72,72,27,88,1
+3387,Kabir,31,Female,School,Painting,30,34,15,16,83,31,84,85,37
+3390,Aanya,1,Female,Graduation,Cooking,65,66,24,48,85,95,9,43,11
+3391,Aditya,90,Female,School,Reading,95,5,98,99,68,37,8,28,80
+3393,Vihaan,21,Female,Post Graduation,Photography,44,61,32,60,96,35,72,3,99
+3394,Myra,78,Male,Post Graduation,Gaming,53,10,18,24,59,54,20,68,70
+3397,Zara,83,Male,School,Music,87,52,68,80,19,48,2,98,68
+3401,Diya,81,Male,Post Graduation,Painting,25,8,61,31,87,44,94,80,39
+3409,Riya,84,Male,Graduation,Cooking,4,34,82,53,4,73,72,5,67
+3411,Sanya,31,Female,Graduation,Traveling,74,100,1,43,90,10,8,5,52
+3412,Arjun,62,Male,Post Graduation,Writing,70,82,76,33,38,38,86,1,24
+3428,Priya,39,Male,School,Painting,35,34,6,58,6,6,13,71,68
+3429,Sanya,24,Male,Graduation,Gaming,22,24,22,13,15,79,56,7,37
+3433,Sanya,44,Female,Post Graduation,Gaming,29,40,78,64,19,5,99,62,14
+3434,Vihaan,35,Female,School,Photography,90,55,75,6,44,79,34,94,65
+3439,Tanvi,81,Female,School,Sports,26,48,39,77,30,38,96,1,10
+3447,Aditya,23,Female,Post Graduation,Writing,10,91,84,6,92,35,22,35,1
+3455,Aarav,28,Male,School,Sports,47,77,20,18,25,100,11,44,49
+3457,Ananya,13,Female,School,Traveling,53,15,50,32,22,94,50,93,49
+3459,Rohan,91,Male,School,Sports,89,50,74,38,60,34,62,70,73
+3467,Zara,76,Male,Post Graduation,Painting,78,5,20,19,5,2,17,89,35
+3470,Aarav,33,Male,Graduation,Sports,44,2,3,18,15,8,17,75,89
+3471,Priya,57,Male,Post Graduation,Reading,3,73,45,63,31,98,60,66,14
+3477,Aanya,90,Female,Graduation,Painting,6,93,43,1,54,94,11,69,78
+3478,Aanya,47,Female,Graduation,Reading,71,44,13,34,12,36,98,60,51
+3480,Tanvi,48,Female,School,Painting,24,7,52,19,61,35,65,82,37
+3490,Priya,88,Male,Graduation,Reading,40,82,77,40,96,45,16,90,89
+3493,Ishita,39,Male,Post Graduation,Gaming,53,28,92,54,0,50,76,94,32
+3496,Arjun,26,Female,School,Writing,72,41,39,26,96,30,85,42,70
+3500,Aanya,14,Female,School,Cooking,63,73,87,80,93,80,88,55,30
+3503,Zara,67,Male,Graduation,Painting,14,92,85,51,21,85,60,36,44
+3504,Aditya,24,Female,School,Photography,12,88,97,62,29,37,91,40,12
+3505,Ananya,55,Female,Post Graduation,Cooking,54,12,8,100,8,56,57,19,33
+3507,Sanya,76,Male,School,Reading,12,82,19,52,4,97,30,76,76
+3510,Aryan,36,Female,School,Cooking,83,9,78,62,93,38,15,89,53
+3519,Tanvi,6,Male,Graduation,Gaming,48,84,69,37,88,54,59,88,86
+3525,Tanvi,79,Female,Post Graduation,Sports,98,6,67,43,93,32,15,99,60
+3532,Vivaan,64,Female,Post Graduation,Painting,95,32,86,89,54,10,10,5,29
+3537,Priya,91,Male,School,Traveling,88,8,70,59,42,62,16,39,53
+3539,Ishita,7,Male,Graduation,Traveling,43,58,25,72,42,30,4,95,43
+3541,Vivaan,70,Male,School,Writing,6,93,7,32,63,71,18,72,97
+3542,Diya,2,Female,School,Music,86,96,82,85,46,2,31,50,67
+3543,Aditya,13,Female,Graduation,Traveling,64,85,42,57,5,7,95,77,37
+3546,Zara,47,Male,Graduation,Music,56,64,81,5,16,48,58,35,52
+3549,Zara,80,Male,Post Graduation,Painting,54,9,11,33,29,62,88,80,29
+3553,Zara,22,Male,Post Graduation,Photography,16,50,42,1,67,47,77,10,11
+3556,Aanya,25,Male,Post Graduation,Music,38,23,39,25,5,48,88,36,3
+3557,Rohan,57,Male,School,Sports,91,81,64,37,98,49,74,55,11
+3564,Tanvi,8,Male,School,Painting,10,57,63,86,11,88,56,78,61
+3565,Aryan,76,Female,Graduation,Music,89,4,31,20,18,91,23,44,19
+3579,Kabir,85,Male,School,Writing,100,99,64,21,69,100,43,28,23
+3584,Vihaan,18,Male,Graduation,Traveling,19,24,20,28,23,19,78,54,49
+3588,Sanya,11,Male,Post Graduation,Reading,98,74,79,65,43,78,41,1,37
+3596,Rohan,79,Male,Post Graduation,Painting,43,40,15,98,60,98,86,48,79
+3600,Ananya,65,Female,Graduation,Music,68,37,100,49,35,58,86,12,63
+3602,Vihaan,94,Male,Graduation,Music,95,5,42,2,35,18,68,39,9
+3606,Kabir,90,Male,School,Writing,32,22,37,78,71,45,37,13,93
+3609,Sanya,94,Female,Graduation,Gaming,25,57,38,45,68,17,85,28,16
+3611,Sai,90,Male,Graduation,Dancing,85,52,87,94,77,38,68,77,16
+3615,Ishita,35,Male,Graduation,Painting,28,28,3,74,6,63,81,13,88
+3622,Aanya,95,Female,Post Graduation,Photography,7,34,33,26,42,93,31,7,59
+3629,Aditya,37,Female,School,Gaming,88,46,55,89,6,9,100,76,29
+3631,Vivaan,29,Female,Graduation,Dancing,64,23,77,65,6,2,62,48,8
+3638,Tanvi,69,Male,Graduation,Cooking,78,50,51,26,94,32,13,70,99
+3657,Sai,65,Female,Graduation,Sports,42,31,32,56,92,98,50,0,6
+3662,Kabir,53,Male,Graduation,Dancing,68,24,41,4,6,76,37,87,89
+3664,Ishita,34,Female,Post Graduation,Sports,58,56,22,65,6,37,1,11,16
+3668,Diya,8,Female,School,Traveling,96,3,93,55,24,42,8,79,46
+3683,Ananya,90,Female,Graduation,Dancing,72,91,25,51,78,77,1,87,86
+3698,Sai,69,Female,Graduation,Cooking,100,45,58,25,67,69,45,4,88
+3699,Riya,53,Male,School,Photography,9,33,75,56,59,14,1,69,97
+3707,Ananya,40,Female,Graduation,Cooking,80,55,75,50,3,70,47,35,31
+3708,Kabir,95,Female,School,Reading,4,90,65,21,10,66,37,27,36
+3710,Sai,10,Male,Graduation,Painting,49,79,91,5,16,37,20,23,97
+3712,Ananya,8,Female,School,Music,21,78,6,80,2,17,45,71,41
+3723,Tanvi,41,Male,Post Graduation,Cooking,75,100,93,74,62,34,97,9,74
+3726,Aditya,47,Female,School,Cooking,38,43,2,89,51,58,17,5,21
+3741,Diya,14,Male,School,Music,29,24,80,22,39,58,91,14,96
+3743,Ananya,47,Female,Graduation,Reading,85,71,85,97,98,8,20,11,87
+3748,Aryan,74,Female,Post Graduation,Gaming,65,12,36,43,56,77,19,88,83
+3749,Kabir,52,Male,Post Graduation,Photography,29,5,43,81,90,58,34,80,24
+3750,Krishna,33,Male,School,Reading,46,78,83,37,15,3,12,18,14
+3758,Kabir,99,Male,Graduation,Music,82,78,95,26,26,52,75,64,86
+3769,Diya,66,Male,Post Graduation,Reading,33,5,40,95,16,76,83,53,54
+3773,Priya,10,Male,School,Reading,75,79,99,45,38,27,7,5,0
+3787,Aditya,40,Female,School,Music,83,4,32,94,30,21,20,95,38
+3796,Aditya,97,Male,School,Painting,61,14,11,58,83,73,94,85,21
+3799,Ananya,1,Male,Graduation,Reading,59,52,63,82,58,32,17,33,51
+3805,Myra,60,Female,Post Graduation,Writing,67,46,27,92,27,37,87,88,32
+3814,Kabir,35,Female,School,Photography,72,43,21,81,7,85,4,48,52
+3815,Ishita,98,Female,Post Graduation,Sports,49,31,14,3,61,33,16,16,67
+3824,Aanya,56,Male,Post Graduation,Gaming,69,0,55,22,61,30,10,65,6
+3825,Zara,60,Male,School,Gaming,29,94,21,2,20,20,58,23,98
+3827,Rohan,59,Female,School,Gaming,57,96,80,33,29,8,85,83,41
+3834,Myra,36,Female,Graduation,Cooking,65,49,28,61,91,53,65,22,58
+3843,Ananya,74,Female,Graduation,Sports,34,32,56,53,18,48,27,68,80
+3856,Riya,80,Female,School,Reading,84,71,94,59,47,61,22,40,36
+3857,Rohan,36,Male,School,Sports,19,64,57,60,93,21,47,51,12
+3861,Aarav,16,Male,Graduation,Painting,96,98,0,56,68,81,78,24,52
+3864,Riya,34,Female,Post Graduation,Music,53,65,90,11,82,84,34,25,61
+3865,Arjun,61,Female,Post Graduation,Reading,12,96,55,64,75,31,42,46,93
+3872,Zara,3,Female,Graduation,Painting,46,63,54,29,100,81,41,90,77
+3880,Zara,3,Female,Post Graduation,Cooking,81,79,52,100,79,53,5,88,13
+3882,Zara,37,Female,School,Sports,74,61,6,75,13,32,78,76,24
+3888,Diya,99,Female,Post Graduation,Reading,99,67,92,77,53,16,25,97,0
+3895,Vihaan,42,Male,Graduation,Painting,40,65,88,73,46,83,97,46,86
+3897,Aditya,10,Female,Post Graduation,Dancing,100,27,29,95,61,89,68,63,99
+3905,Krishna,37,Female,Graduation,Reading,89,60,46,29,72,26,44,61,97
+3916,Ishita,66,Female,Post Graduation,Writing,89,59,52,16,40,13,0,19,22
+3918,Ishita,38,Female,Graduation,Traveling,22,99,0,34,41,20,53,79,28
+3920,Kabir,40,Female,Graduation,Gaming,36,62,35,25,78,69,85,81,82
+3922,Arjun,49,Female,Post Graduation,Painting,36,79,94,81,10,7,76,82,21
+3924,Aryan,49,Female,School,Writing,64,100,22,65,40,2,64,41,18
+3927,Vihaan,61,Female,Post Graduation,Painting,73,46,6,18,33,45,57,1,54
+3934,Vivaan,96,Female,School,Painting,67,98,99,2,79,97,8,46,42
+3938,Vivaan,94,Female,Post Graduation,Dancing,41,36,4,24,65,63,71,44,99
+3945,Kabir,83,Male,School,Traveling,72,41,63,50,0,6,57,11,96
+3946,Aryan,60,Female,School,Writing,87,1,71,48,57,81,79,5,12
+3948,Myra,26,Male,Graduation,Writing,84,33,81,59,66,11,68,81,7
+3957,Riya,14,Male,School,Music,66,37,71,91,62,80,10,30,47
+3958,Sanya,83,Female,Post Graduation,Painting,44,69,48,82,63,25,22,96,51
+3964,Aarav,51,Female,Post Graduation,Painting,70,52,41,59,37,12,91,80,3
+3966,Krishna,9,Female,Graduation,Music,65,25,20,13,91,64,97,69,62
+3969,Aditya,34,Female,Graduation,Traveling,69,55,87,76,16,27,40,19,2
+3973,Ananya,24,Female,Post Graduation,Music,98,29,74,7,90,93,39,95,55
+3975,Sanya,64,Male,School,Traveling,73,93,95,69,0,67,76,9,42
+3977,Ishita,75,Female,School,Reading,90,48,57,78,35,31,100,54,62
+3979,Aarav,49,Male,Post Graduation,Music,95,91,81,96,45,10,0,45,95
+3980,Ananya,46,Female,Graduation,Sports,89,66,96,53,81,17,46,16,39
+3981,Vivaan,60,Male,Graduation,Painting,88,92,45,27,35,35,35,31,17
+3989,Kabir,52,Female,Graduation,Cooking,0,3,6,41,77,16,27,25,10
+3999,Zara,25,Male,Graduation,Traveling,35,2,97,67,73,94,84,6,16
+4004,Sanya,87,Female,Graduation,Photography,44,99,32,8,31,64,60,29,65
+4006,Priya,45,Male,School,Dancing,13,26,50,27,98,99,2,20,68
+4009,Aarav,70,Female,Post Graduation,Reading,18,10,47,34,56,27,77,87,77
+4013,Riya,46,Male,Graduation,Sports,71,98,18,18,59,47,57,73,54
+4017,Myra,96,Female,Graduation,Traveling,51,100,12,59,76,84,62,78,28
+4021,Vihaan,85,Male,Post Graduation,Reading,36,9,58,76,12,74,17,23,12
+4022,Arjun,67,Female,Graduation,Painting,46,59,60,44,40,76,82,26,28
+4025,Arjun,41,Female,School,Traveling,94,22,17,96,46,81,93,33,45
+4026,Priya,19,Female,Post Graduation,Dancing,16,12,86,23,86,100,82,90,37
+4035,Vivaan,12,Male,School,Cooking,55,58,21,29,75,74,57,38,7
+4036,Ishita,26,Female,Graduation,Traveling,54,8,14,42,64,3,33,34,43
+4050,Krishna,56,Male,Post Graduation,Cooking,54,87,48,92,64,10,15,18,23
+4051,Aryan,7,Male,Graduation,Writing,7,2,75,60,36,97,27,34,14
+4052,Myra,44,Female,School,Sports,93,66,68,40,18,94,3,62,76
+4059,Rohan,45,Male,School,Traveling,19,77,12,64,21,19,4,92,58
+4071,Arjun,82,Female,Post Graduation,Writing,87,18,34,9,77,75,41,72,10
+4072,Vihaan,64,Female,School,Music,31,28,23,78,38,39,7,95,52
+4074,Aanya,39,Female,Graduation,Sports,44,88,79,84,20,9,67,28,58
+4079,Diya,50,Female,Post Graduation,Music,60,65,26,62,79,4,37,45,92
+4092,Aryan,10,Female,School,Writing,20,13,32,21,47,46,94,32,37
+4100,Arjun,98,Male,Graduation,Music,15,18,58,27,83,55,24,34,29
+4102,Riya,60,Male,Post Graduation,Reading,93,77,0,18,76,21,22,12,53
+4106,Sai,50,Female,School,Cooking,68,23,0,62,100,19,63,0,19
+4108,Aryan,72,Male,Graduation,Cooking,89,97,8,59,49,20,25,76,63
+4111,Arjun,96,Female,Post Graduation,Traveling,14,2,49,21,79,85,20,43,6
+4125,Kabir,51,Female,Graduation,Cooking,97,45,35,51,5,92,80,44,100
+4138,Aryan,95,Female,School,Reading,55,39,73,87,89,8,42,19,50
+4139,Tanvi,59,Female,Post Graduation,Traveling,99,29,21,5,33,49,25,59,64
+4145,Aditya,55,Male,Graduation,Dancing,9,47,81,67,26,65,69,15,62
+4149,Myra,52,Male,Graduation,Photography,52,86,61,35,65,35,0,26,23
+4152,Sai,86,Female,School,Music,15,14,57,14,59,4,29,29,49
+4154,Zara,7,Male,Post Graduation,Dancing,41,43,78,48,59,94,75,70,7
+4156,Aarav,13,Male,Graduation,Photography,10,17,47,5,60,25,5,3,28
+4158,Priya,69,Female,Post Graduation,Photography,40,33,77,43,80,46,33,33,89
+4160,Myra,67,Male,Graduation,Music,3,98,40,21,11,46,40,10,95
+4170,Vihaan,76,Female,Post Graduation,Gaming,12,59,27,26,66,27,99,31,24
+4178,Aarav,26,Male,School,Dancing,0,45,42,40,60,95,81,30,40
+4183,Krishna,74,Female,Post Graduation,Reading,41,42,69,6,31,15,31,41,20
+4185,Diya,69,Female,School,Photography,76,62,91,65,51,44,43,9,84
+4194,Ishita,16,Female,Graduation,Dancing,65,99,13,4,25,35,62,21,20
+4195,Sanya,36,Male,Graduation,Cooking,28,7,3,11,82,95,49,49,94
+4205,Diya,73,Male,Graduation,Writing,74,16,26,87,64,21,9,16,91
+4207,Krishna,99,Male,Post Graduation,Reading,50,99,41,20,35,95,33,2,54
+4210,Aditya,58,Female,School,Gaming,93,82,8,58,18,61,61,35,54
+4212,Aditya,72,Female,Post Graduation,Dancing,74,84,69,43,67,71,64,28,69
+4213,Rohan,70,Male,Graduation,Writing,92,88,57,16,58,90,81,45,43
+4219,Diya,68,Male,School,Painting,87,93,45,86,99,63,74,89,38
+4233,Tanvi,21,Male,Post Graduation,Painting,15,37,60,88,14,72,94,60,65
+4238,Riya,49,Female,School,Traveling,66,100,13,46,1,78,52,29,51
+4240,Krishna,86,Female,Post Graduation,Painting,17,35,19,49,91,8,7,34,37
+4241,Rohan,7,Male,Graduation,Sports,68,98,63,4,65,69,63,62,79
+4243,Sai,78,Male,School,Cooking,0,76,25,6,69,41,46,42,37
+4254,Sai,72,Female,Graduation,Music,43,95,63,59,87,81,46,44,32
+4256,Zara,15,Female,Graduation,Painting,80,84,84,14,30,56,67,7,62
+4264,Sai,95,Female,Post Graduation,Dancing,93,0,22,69,13,72,5,63,39
+4273,Aanya,46,Male,Post Graduation,Traveling,30,60,5,56,72,81,6,61,80
+4283,Vivaan,83,Female,Graduation,Traveling,59,67,21,56,11,81,57,74,8
+4287,Diya,13,Male,School,Writing,30,5,97,59,14,76,84,98,66
+4288,Sanya,38,Male,Post Graduation,Dancing,13,19,69,52,82,27,52,40,100
+4293,Sai,73,Female,School,Traveling,32,59,61,10,75,56,59,98,62
+4296,Sai,5,Female,School,Photography,1,35,40,58,54,8,66,49,20
+4297,Diya,89,Male,Post Graduation,Writing,6,14,91,49,50,79,23,53,94
+4305,Krishna,97,Female,School,Cooking,64,13,71,41,98,56,46,97,20
+4310,Kabir,98,Female,Graduation,Music,99,92,64,99,89,74,90,74,95
+4311,Arjun,25,Male,Graduation,Traveling,52,22,53,82,56,19,33,51,23
+4313,Arjun,59,Female,Graduation,Writing,65,95,51,57,78,48,5,39,46
+4317,Aarav,81,Female,Graduation,Cooking,87,27,3,37,54,31,16,31,11
+4318,Riya,86,Male,Graduation,Dancing,29,68,9,27,76,96,15,73,8
+4320,Sai,67,Male,School,Writing,89,77,15,62,75,71,88,97,69
+4322,Aanya,8,Male,Post Graduation,Gaming,69,17,61,22,27,4,96,46,64
+4325,Aryan,86,Female,Post Graduation,Photography,73,14,0,50,73,17,55,32,89
+4333,Rohan,38,Male,School,Photography,85,85,9,21,73,77,44,41,48
+4340,Aryan,19,Female,Graduation,Painting,99,61,7,64,18,6,29,7,22
+4342,Aarav,60,Male,Graduation,Music,39,90,67,68,66,70,45,99,99
+4349,Aanya,45,Male,Graduation,Traveling,73,66,21,58,51,81,94,99,20
+4355,Rohan,42,Male,Post Graduation,Music,21,13,85,1,59,41,27,54,35
+4356,Myra,8,Male,Post Graduation,Dancing,0,13,76,56,66,99,85,9,82
+4360,Arjun,13,Male,Graduation,Photography,18,28,23,27,30,85,6,72,65
+4364,Riya,42,Female,Post Graduation,Gaming,76,29,37,61,84,40,33,18,6
+4365,Aanya,52,Male,School,Dancing,47,91,92,55,22,15,9,87,95
+4373,Tanvi,39,Female,Graduation,Traveling,4,69,35,87,90,44,12,9,11
+4374,Riya,61,Male,Graduation,Sports,55,64,42,33,19,72,10,37,39
+4378,Ishita,15,Female,Post Graduation,Photography,52,50,95,71,68,61,63,54,4
+4379,Vihaan,96,Female,Post Graduation,Gaming,92,26,70,100,58,16,29,78,28
+4382,Rohan,34,Female,Graduation,Music,86,50,5,17,25,17,76,44,30
+4385,Diya,74,Male,Graduation,Painting,9,40,98,70,23,7,19,22,48
+4386,Zara,79,Male,School,Gaming,24,89,3,40,96,50,78,57,18
+4388,Tanvi,83,Female,Graduation,Painting,13,20,91,43,44,78,10,62,90
+4396,Priya,90,Male,School,Reading,75,74,15,56,64,79,38,85,28
+4397,Rohan,41,Male,School,Sports,11,42,9,33,34,80,28,78,23
+4401,Zara,10,Male,Post Graduation,Photography,36,34,10,22,87,11,40,59,31
+4410,Ananya,70,Female,School,Dancing,13,38,97,84,63,46,52,20,66
+4411,Aryan,5,Female,Graduation,Music,64,86,83,99,53,0,39,12,72
+4415,Aditya,63,Female,School,Dancing,11,49,98,91,41,21,65,50,0
+4427,Aarav,85,Female,Graduation,Traveling,96,52,82,100,81,47,71,22,54
+4429,Arjun,19,Female,School,Dancing,87,42,99,69,95,80,73,9,92
+4434,Priya,45,Male,Graduation,Dancing,12,21,49,93,8,83,16,10,19
+4436,Aryan,95,Female,School,Photography,76,2,24,1,25,25,52,37,24
+4438,Riya,86,Female,Post Graduation,Gaming,89,97,43,50,21,85,25,94,19
+4441,Aryan,31,Male,School,Reading,41,65,70,10,33,13,54,6,75
+4448,Vivaan,44,Male,Post Graduation,Dancing,18,46,86,58,98,29,94,92,31
+4453,Diya,69,Female,School,Sports,77,19,3,56,99,88,86,7,44
+4456,Aarav,97,Male,School,Painting,70,18,48,9,1,42,89,86,73
+4465,Aditya,61,Male,Post Graduation,Photography,38,20,67,58,75,71,8,87,85
+4471,Tanvi,3,Male,Post Graduation,Painting,100,38,80,39,62,39,13,1,66
+4472,Vihaan,1,Female,School,Traveling,39,96,53,83,93,64,60,95,87
+4476,Aryan,83,Female,Post Graduation,Photography,37,70,95,67,58,53,1,77,8
+4478,Kabir,41,Male,Post Graduation,Painting,70,20,46,63,80,37,7,90,15
+4479,Tanvi,75,Female,School,Painting,32,52,90,18,72,84,21,11,4
+4484,Diya,95,Female,Post Graduation,Dancing,91,15,100,92,4,93,39,67,55
+4485,Vihaan,15,Female,Post Graduation,Photography,29,18,8,8,64,28,97,0,60
+4487,Riya,69,Female,School,Reading,3,36,57,47,73,79,7,20,64
+4488,Aryan,41,Male,Post Graduation,Traveling,8,42,28,16,8,20,37,31,67
+4489,Myra,63,Female,Graduation,Music,91,99,28,78,63,13,18,42,9
+4493,Sai,62,Female,School,Reading,63,26,92,29,28,13,49,35,73
+4499,Aanya,86,Male,School,Cooking,50,27,18,14,18,43,58,59,11
+4514,Vihaan,78,Female,Graduation,Sports,36,63,26,75,38,14,44,8,95
+4517,Ananya,56,Male,Graduation,Writing,8,42,41,2,79,80,24,67,48
+4518,Aarav,34,Male,Graduation,Writing,91,60,61,66,67,69,54,70,11
+4524,Aanya,58,Female,School,Writing,35,76,2,10,69,32,10,39,0
+4534,Sanya,63,Male,Graduation,Painting,63,23,20,57,80,32,32,20,49
+4535,Aryan,11,Female,Post Graduation,Music,15,76,10,18,17,100,69,97,26
+4546,Diya,32,Male,Graduation,Sports,39,29,69,70,86,73,4,56,50
+4547,Zara,53,Male,Post Graduation,Music,70,99,4,20,12,80,87,43,54
+4549,Zara,61,Female,Graduation,Photography,62,20,52,34,90,34,84,57,24
+4553,Aanya,87,Female,School,Sports,18,49,54,57,22,10,38,25,14
+4554,Sai,6,Female,Post Graduation,Photography,8,85,57,32,14,41,36,18,72
+4559,Arjun,63,Male,Graduation,Gaming,85,59,11,21,48,36,62,34,23
+4572,Vihaan,8,Male,School,Writing,57,22,17,28,84,69,86,62,35
+4573,Zara,46,Male,Post Graduation,Reading,16,32,14,24,19,67,90,63,98
+4591,Aryan,12,Female,Post Graduation,Reading,63,22,56,96,27,8,44,20,67
+4597,Ishita,61,Female,Graduation,Dancing,74,35,52,72,58,88,100,20,90
+4600,Diya,80,Female,Post Graduation,Dancing,99,1,28,57,53,37,76,22,64
+4604,Tanvi,86,Female,Post Graduation,Photography,50,73,33,52,73,62,1,62,64
+4605,Diya,38,Female,School,Traveling,77,7,92,61,30,100,44,69,79
+4615,Krishna,1,Male,Post Graduation,Music,7,89,96,73,2,76,8,49,42
+4616,Zara,19,Male,School,Painting,90,72,91,62,20,13,36,42,60
+4618,Sanya,40,Male,Post Graduation,Sports,75,33,35,82,1,84,90,93,88
+4624,Ananya,99,Female,Graduation,Photography,61,39,86,43,22,11,8,61,16
+4625,Kabir,70,Female,School,Cooking,46,79,4,9,100,79,49,98,59
+4626,Myra,60,Male,Graduation,Music,24,34,52,41,62,32,9,50,6
+4647,Priya,67,Male,School,Dancing,57,88,27,64,19,69,78,23,50
+4650,Aanya,43,Male,Graduation,Cooking,87,43,33,66,85,8,75,57,10
+4651,Rohan,46,Male,Graduation,Music,69,24,67,43,25,11,91,84,54
+4652,Arjun,74,Female,Post Graduation,Reading,18,85,56,60,47,60,91,64,12
+4659,Sai,66,Male,School,Cooking,71,58,18,54,14,39,32,13,76
+4663,Rohan,74,Male,Post Graduation,Dancing,64,65,38,69,75,39,25,92,62
+4669,Tanvi,36,Female,School,Music,98,54,33,57,66,55,3,14,30
+4672,Zara,74,Female,School,Writing,99,99,92,32,32,92,67,10,89
+4674,Kabir,49,Male,Graduation,Photography,5,55,4,87,41,51,37,37,32
+4678,Rohan,17,Male,School,Writing,46,99,88,3,97,4,20,83,67
+4683,Sanya,47,Female,Post Graduation,Traveling,59,82,90,13,84,67,64,78,59
+4688,Myra,99,Female,School,Traveling,43,14,20,40,34,100,72,3,42
+4697,Myra,82,Male,Post Graduation,Gaming,73,4,53,86,79,86,23,95,88
+4709,Vivaan,42,Male,Post Graduation,Gaming,2,22,42,99,28,25,71,30,43
+4717,Ananya,61,Female,Post Graduation,Reading,45,14,35,78,93,27,18,30,9
+4738,Zara,61,Male,Graduation,Traveling,64,81,2,13,20,86,17,71,36
+4739,Myra,32,Female,Post Graduation,Music,18,66,40,32,96,75,59,24,90
+4741,Aryan,6,Female,Post Graduation,Music,25,93,20,16,75,7,31,21,87
+4742,Vihaan,25,Female,Post Graduation,Traveling,43,22,35,83,18,82,1,68,43
+4746,Ananya,79,Female,Post Graduation,Writing,82,55,4,27,63,21,94,14,19
+4752,Vihaan,60,Male,Graduation,Photography,6,47,22,67,44,47,67,19,89
+4762,Myra,38,Female,Graduation,Dancing,58,31,14,100,19,92,54,52,67
+4770,Ishita,95,Male,Graduation,Reading,96,27,33,3,70,57,9,46,58
+4771,Arjun,29,Female,Post Graduation,Writing,21,92,23,72,74,22,24,11,76
+4772,Kabir,99,Male,School,Music,39,49,53,34,99,7,44,57,39
+4784,Kabir,25,Female,Post Graduation,Writing,5,8,15,33,42,54,49,16,67
+4798,Myra,19,Female,Post Graduation,Gaming,30,80,12,28,56,19,63,59,31
+4801,Riya,70,Female,School,Traveling,63,13,5,9,76,57,13,41,40
+4809,Myra,41,Female,Graduation,Reading,31,44,65,46,70,72,85,97,51
+4814,Vihaan,77,Male,Graduation,Sports,73,15,29,74,64,23,4,18,58
+4829,Vivaan,10,Male,School,Writing,74,72,39,80,79,86,46,25,0
+4831,Aditya,14,Female,Graduation,Dancing,78,78,16,100,48,44,77,47,17
+4839,Tanvi,26,Female,School,Writing,35,74,61,63,26,6,7,96,52
+4845,Krishna,12,Female,School,Photography,47,93,12,38,95,68,1,71,41
+4851,Krishna,2,Male,Graduation,Photography,100,71,33,70,4,18,60,74,2
+4853,Priya,15,Female,School,Traveling,35,80,14,97,68,43,49,56,68
+4859,Zara,76,Male,Graduation,Music,7,29,82,67,37,84,96,7,58
+4860,Rohan,33,Male,Post Graduation,Writing,74,39,92,48,98,100,73,29,47
+4864,Aryan,97,Female,Graduation,Writing,74,17,72,82,19,60,5,32,4
+4867,Krishna,35,Male,Graduation,Cooking,54,95,100,74,34,21,86,10,50
+4869,Ananya,27,Female,School,Photography,89,36,85,17,72,63,22,0,89
+4871,Priya,8,Female,Graduation,Gaming,54,74,57,19,60,65,81,21,71
+4875,Ishita,86,Female,Post Graduation,Painting,90,12,53,35,14,30,45,82,81
+4885,Sanya,16,Male,School,Gaming,15,35,46,99,56,79,60,20,85
+4899,Vivaan,20,Male,Graduation,Dancing,69,58,42,10,81,42,30,3,1
+4904,Aanya,75,Male,Post Graduation,Painting,18,33,55,64,62,82,5,39,69
+4905,Diya,41,Male,Post Graduation,Cooking,19,72,34,18,30,100,67,37,70
+4914,Diya,9,Female,Post Graduation,Reading,60,42,96,80,53,88,75,3,91
+4915,Kabir,84,Female,Graduation,Cooking,76,56,40,49,73,83,87,41,76
+4925,Myra,83,Female,School,Music,39,25,83,18,92,2,26,82,81
+4931,Diya,5,Male,Graduation,Sports,69,1,60,62,50,46,88,49,54
+4938,Arjun,98,Female,Post Graduation,Dancing,38,34,95,60,79,71,84,68,51
+4940,Sai,95,Female,School,Writing,46,58,30,43,27,7,69,62,12
+4946,Aryan,79,Female,Post Graduation,Traveling,20,3,36,66,7,51,61,79,88
+4951,Krishna,20,Female,Graduation,Gaming,65,65,59,39,59,63,32,41,86
+4952,Krishna,59,Male,School,Painting,52,54,73,89,35,77,11,17,76
+4974,Kabir,45,Female,School,Dancing,86,23,14,39,65,23,12,80,23
+4985,Aanya,17,Male,Graduation,Traveling,90,61,91,36,89,80,91,28,92
+4987,Sai,17,Female,School,Traveling,82,23,82,92,60,31,53,86,49
+4997,Kabir,55,Female,Post Graduation,Photography,6,27,59,92,44,88,33,98,67
+5006,Ishita,32,Male,Post Graduation,Painting,65,13,77,19,38,35,20,21,72
+5014,Vivaan,31,Male,Graduation,Cooking,75,45,36,45,41,83,1,41,39
+5018,Ananya,20,Female,School,Painting,6,89,78,94,16,6,71,46,49
+5020,Diya,80,Female,Graduation,Gaming,94,89,85,9,23,22,46,27,86
+5023,Krishna,95,Male,Post Graduation,Sports,57,64,25,55,47,57,32,5,42
+5035,Aryan,1,Male,Post Graduation,Reading,82,56,57,6,46,84,59,14,80
+5043,Kabir,65,Male,Post Graduation,Writing,68,0,70,84,66,26,65,49,5
+5048,Aarav,35,Female,Graduation,Painting,66,51,72,74,35,23,78,64,30
+5050,Sanya,40,Female,Post Graduation,Writing,69,24,18,50,7,89,15,9,17
+5057,Krishna,52,Female,School,Gaming,43,70,26,38,74,51,32,97,77
+5060,Arjun,58,Female,Post Graduation,Dancing,70,75,51,3,40,63,43,24,2
+5070,Vihaan,3,Male,Post Graduation,Dancing,36,19,25,1,41,87,7,25,75
+5071,Myra,19,Male,Post Graduation,Sports,42,71,54,1,65,100,66,75,10
+5073,Aditya,26,Female,School,Dancing,44,19,31,13,53,39,13,71,31
+5077,Sanya,50,Male,Post Graduation,Writing,38,92,23,11,14,51,46,85,90
+5080,Aditya,51,Female,School,Music,70,74,85,41,57,87,50,96,48
+5082,Riya,48,Male,School,Dancing,41,5,99,2,18,80,42,65,91
+5087,Aanya,92,Female,Graduation,Music,55,78,84,10,31,18,67,82,52
+5094,Zara,6,Female,Post Graduation,Photography,88,4,43,83,69,65,8,56,40
+5095,Krishna,36,Male,Post Graduation,Writing,85,70,78,10,48,73,25,3,86
+5098,Aarav,28,Female,Graduation,Traveling,94,66,19,62,71,83,94,29,0
+5100,Zara,63,Male,Graduation,Sports,38,1,37,89,85,42,37,23,77
+5102,Vihaan,92,Female,Post Graduation,Dancing,15,54,34,85,38,27,40,4,84
+5103,Arjun,60,Male,Post Graduation,Painting,30,68,10,40,65,10,52,8,60
+5106,Krishna,43,Female,Post Graduation,Writing,81,1,29,70,93,100,93,34,59
+5108,Myra,73,Male,Post Graduation,Photography,40,41,78,6,92,76,100,31,70
+5111,Rohan,74,Female,Post Graduation,Music,45,65,3,89,75,35,66,23,61
+5114,Ishita,7,Female,Graduation,Gaming,88,13,24,75,20,46,89,77,15
+5117,Aanya,11,Female,School,Traveling,86,98,20,20,40,3,66,49,90
+5122,Zara,74,Female,Post Graduation,Writing,51,72,88,43,92,94,70,25,59
+5127,Arjun,33,Female,School,Painting,85,88,0,90,63,50,56,1,93
+5133,Priya,40,Female,School,Photography,29,34,79,30,59,77,98,21,55
+5134,Aditya,93,Male,School,Painting,84,33,74,69,13,41,70,9,5
+5137,Vivaan,25,Female,School,Painting,10,30,93,36,80,91,73,89,39
+5139,Tanvi,75,Male,Graduation,Music,24,5,81,10,57,51,99,41,87
+5147,Arjun,74,Female,Graduation,Photography,92,62,9,1,27,61,94,12,56
+5153,Myra,23,Male,Graduation,Gaming,3,36,15,52,14,89,65,97,34
+5158,Ananya,96,Female,Graduation,Painting,21,71,43,69,93,42,41,5,79
+5160,Aanya,91,Male,Graduation,Reading,33,69,100,49,56,33,31,1,0
+5166,Arjun,20,Female,School,Dancing,13,88,12,21,60,1,44,22,75
+5167,Aanya,98,Male,School,Traveling,21,100,57,96,22,2,69,33,20
+5168,Riya,91,Male,Graduation,Cooking,2,9,61,44,67,10,25,96,78
+5172,Tanvi,75,Female,School,Dancing,36,79,82,57,70,76,72,30,26
+5173,Aryan,35,Female,School,Painting,35,88,89,92,81,35,83,62,100
+5176,Tanvi,90,Male,Graduation,Gaming,94,13,53,6,56,56,88,84,46
+5182,Aanya,46,Female,Graduation,Reading,90,66,62,46,40,14,77,51,14
+5193,Aditya,32,Female,Post Graduation,Writing,96,69,82,55,78,29,100,13,42
+5197,Priya,85,Female,School,Painting,20,95,58,24,47,68,34,10,6
+5209,Ishita,70,Male,Graduation,Dancing,71,8,36,34,32,23,5,97,88
+5211,Vihaan,93,Male,Graduation,Music,84,0,90,5,94,8,78,29,21
+5215,Diya,72,Male,School,Photography,92,6,37,16,74,65,57,11,66
+5223,Tanvi,6,Male,School,Traveling,5,75,10,46,38,11,73,19,70
+5224,Krishna,77,Female,School,Sports,46,99,31,71,75,8,26,75,85
+5225,Rohan,25,Male,Graduation,Photography,35,71,61,4,23,100,48,77,53
+5227,Tanvi,99,Male,Post Graduation,Cooking,73,53,1,92,79,51,2,72,36
+5229,Sanya,42,Male,Graduation,Music,46,36,43,10,91,57,33,34,27
+5230,Krishna,98,Female,Graduation,Music,92,89,1,10,64,26,82,83,45
+5238,Arjun,98,Female,School,Writing,43,5,16,39,99,82,22,92,45
+5245,Krishna,78,Female,Graduation,Traveling,78,99,98,93,48,48,82,77,58
+5257,Aditya,48,Male,School,Sports,82,66,99,94,66,1,97,65,40
+5260,Arjun,14,Male,School,Cooking,74,93,31,86,89,43,43,81,34
+5276,Sanya,22,Female,School,Sports,12,71,24,27,40,98,71,34,79
+5280,Vivaan,98,Male,Graduation,Traveling,81,2,86,9,89,56,80,65,22
+5288,Sai,62,Male,Post Graduation,Traveling,47,50,89,67,30,7,20,5,69
+5291,Rohan,67,Male,Graduation,Writing,60,80,40,62,20,4,6,21,0
+5292,Rohan,2,Male,Post Graduation,Gaming,66,35,53,41,25,80,60,36,85
+5296,Tanvi,38,Female,Graduation,Painting,47,10,89,12,82,68,5,78,61
+5300,Aanya,48,Female,Graduation,Cooking,65,3,87,38,8,71,35,44,55
+5308,Ishita,21,Female,Post Graduation,Writing,32,99,73,61,69,8,53,10,52
+5311,Vihaan,6,Male,Post Graduation,Music,46,15,64,17,7,18,81,81,59
+5312,Rohan,16,Male,School,Writing,14,61,11,82,67,93,38,6,29
+5317,Myra,1,Female,Post Graduation,Dancing,84,16,84,33,11,66,51,56,53
+5331,Sai,67,Female,School,Photography,89,8,30,57,69,38,16,83,77
+5332,Sanya,17,Female,Graduation,Cooking,49,87,61,97,83,68,99,70,1
+5333,Diya,53,Male,School,Music,71,22,33,47,70,97,83,15,49
+5336,Aarav,80,Male,Graduation,Gaming,85,18,6,6,27,78,20,59,38
+5347,Diya,36,Female,Post Graduation,Writing,95,91,62,48,33,0,89,96,49
+5351,Rohan,72,Male,Graduation,Writing,18,56,57,32,54,17,40,20,66
+5360,Aarav,41,Male,Post Graduation,Painting,0,23,52,83,89,99,99,54,24
+5361,Aditya,77,Female,Graduation,Sports,57,38,1,12,82,80,89,98,62
+5365,Sanya,49,Male,Graduation,Cooking,57,23,27,47,41,86,81,68,75
+5367,Krishna,91,Female,Post Graduation,Cooking,70,86,10,1,88,53,29,66,46
+5373,Arjun,19,Female,School,Sports,68,79,24,31,9,66,99,86,27
+5385,Tanvi,22,Male,Post Graduation,Traveling,87,87,57,63,5,24,58,99,14
+5387,Priya,64,Female,Graduation,Music,14,38,16,95,54,94,29,14,7
+5394,Vihaan,73,Female,Graduation,Traveling,12,51,95,3,51,53,35,44,28
+5396,Ishita,30,Male,School,Photography,21,77,19,14,92,18,96,34,18
+5399,Riya,57,Female,School,Reading,19,66,23,98,90,15,98,24,71
+5401,Rohan,33,Female,Post Graduation,Music,37,48,70,49,58,46,36,72,82
+5403,Aarav,98,Male,Post Graduation,Music,17,39,33,8,21,90,33,7,53
+5411,Diya,16,Female,Graduation,Photography,84,60,86,20,86,27,49,9,80
+5436,Aanya,85,Male,School,Painting,80,94,17,45,6,5,75,62,4
+5441,Aanya,9,Male,Graduation,Sports,35,73,58,18,67,64,27,31,4
+5442,Vivaan,40,Male,Post Graduation,Traveling,33,3,62,49,77,80,40,6,48
+5449,Aditya,66,Male,Post Graduation,Traveling,95,0,60,12,83,90,58,65,32
+5451,Aditya,64,Male,Post Graduation,Writing,96,85,25,53,35,100,48,25,65
+5457,Sanya,79,Male,Graduation,Cooking,33,57,68,53,36,68,56,93,84
+5464,Aanya,21,Female,Graduation,Cooking,55,24,32,73,22,81,52,80,72
+5466,Tanvi,49,Male,School,Cooking,61,67,96,99,58,80,18,40,74
+5473,Priya,47,Male,School,Cooking,11,92,30,96,71,20,14,57,59
+5475,Diya,1,Female,School,Sports,17,100,47,18,64,82,65,8,58
+5481,Tanvi,69,Male,Graduation,Gaming,89,87,98,49,90,67,76,36,10
+5487,Riya,12,Female,School,Cooking,45,19,5,26,46,4,20,91,48
+5491,Aryan,9,Female,Graduation,Cooking,78,42,37,87,95,97,0,93,90
+5501,Myra,52,Female,Post Graduation,Music,3,37,76,78,77,12,90,48,88
+5505,Aditya,72,Male,School,Traveling,14,22,50,81,40,23,58,30,100
+5512,Diya,43,Male,Post Graduation,Painting,17,20,42,70,28,27,59,84,29
+5516,Zara,98,Male,School,Dancing,55,34,88,94,28,56,29,81,24
+5520,Aditya,59,Female,Post Graduation,Painting,5,23,3,6,31,91,50,26,69
+5526,Aditya,42,Female,Post Graduation,Gaming,91,82,1,76,37,0,27,67,98
+5542,Rohan,95,Male,School,Traveling,19,100,86,22,7,72,59,4,22
+5543,Aditya,8,Male,School,Gaming,54,55,38,17,42,97,58,52,69
+5545,Ananya,6,Female,Post Graduation,Cooking,75,41,12,48,12,83,29,100,60
+5549,Krishna,23,Female,School,Reading,68,58,59,93,48,57,77,43,90
+5553,Ishita,91,Male,School,Writing,80,55,11,80,85,33,67,81,48
+5556,Rohan,35,Male,Post Graduation,Cooking,47,28,78,79,18,10,3,36,37
+5561,Priya,87,Male,Graduation,Photography,55,45,35,75,12,99,2,84,24
+5566,Aditya,20,Male,School,Painting,87,17,97,63,23,6,70,36,19
+5569,Vihaan,62,Female,School,Photography,63,32,11,80,19,37,66,57,84
+5572,Vihaan,91,Female,Graduation,Sports,4,63,22,27,99,7,72,46,21
+5574,Ananya,73,Female,Post Graduation,Reading,52,39,47,37,73,33,76,69,66
+5576,Priya,85,Male,Post Graduation,Photography,63,91,5,82,36,69,48,62,75
+5578,Ishita,40,Female,Post Graduation,Reading,82,55,78,47,79,45,24,30,26
+5583,Ishita,78,Male,School,Gaming,20,50,82,54,5,16,8,92,63
+5585,Aarav,52,Female,Post Graduation,Music,12,75,46,79,37,51,36,15,6
+5590,Tanvi,71,Male,Post Graduation,Cooking,47,33,45,56,88,4,33,30,97
+5596,Krishna,51,Male,School,Dancing,36,2,94,63,1,97,25,81,76
+5599,Aanya,15,Male,Graduation,Sports,16,72,85,58,51,16,14,64,35
+5606,Riya,82,Female,Post Graduation,Reading,27,14,87,43,83,93,41,16,93
+5614,Aarav,65,Female,School,Dancing,14,43,20,61,12,45,89,48,93
+5617,Vihaan,26,Male,School,Cooking,55,58,49,18,32,35,2,90,58
+5623,Rohan,22,Male,School,Cooking,6,47,65,29,58,84,57,11,89
+5625,Zara,49,Male,School,Dancing,93,5,86,91,35,78,39,12,8
+5627,Arjun,99,Male,Graduation,Reading,46,98,31,66,31,82,45,47,11
+5628,Aanya,98,Male,Post Graduation,Writing,89,70,27,51,99,29,98,49,84
+5639,Kabir,50,Female,Post Graduation,Music,100,90,2,55,78,22,51,58,19
+5641,Riya,69,Male,Graduation,Painting,13,30,77,100,25,16,35,40,63
+5644,Tanvi,91,Female,School,Music,67,78,88,98,20,14,19,44,18
+5650,Krishna,48,Female,Post Graduation,Painting,36,74,11,7,76,25,88,80,21
+5651,Kabir,54,Female,Graduation,Music,15,82,34,20,59,9,88,64,40
+5654,Vivaan,83,Female,School,Painting,1,64,66,20,45,93,34,57,2
+5661,Arjun,15,Female,Graduation,Reading,40,69,42,45,46,28,71,80,81
+5675,Ananya,42,Female,Post Graduation,Photography,43,25,31,69,41,100,82,27,35
+5678,Sai,87,Female,School,Photography,58,10,66,97,71,74,64,89,72
+5687,Aanya,54,Male,Graduation,Writing,47,25,14,77,55,32,76,72,14
+5693,Aryan,56,Female,Graduation,Photography,25,21,2,69,96,35,70,52,49
+5704,Krishna,39,Male,School,Dancing,95,13,44,90,29,27,2,22,35
+5707,Priya,30,Female,School,Painting,3,42,19,22,90,99,11,72,48
+5713,Zara,6,Female,School,Reading,26,4,7,61,82,85,63,80,57
+5714,Sai,71,Female,Graduation,Traveling,43,90,69,10,85,14,79,28,54
+5725,Vivaan,67,Female,Graduation,Traveling,61,68,51,44,48,18,41,71,19
+5733,Ananya,35,Female,Post Graduation,Reading,12,91,95,6,20,8,60,39,86
+5734,Aryan,81,Female,School,Dancing,97,81,99,68,54,69,44,8,44
+5738,Tanvi,81,Female,Post Graduation,Traveling,30,15,15,39,7,25,53,21,37
+5741,Vihaan,35,Female,Post Graduation,Cooking,30,60,41,88,49,64,34,39,26
+5765,Diya,14,Female,Post Graduation,Sports,12,15,57,29,2,36,98,56,80
+5766,Ishita,86,Male,School,Sports,48,64,52,57,52,28,41,46,92
+5773,Rohan,50,Male,Post Graduation,Writing,70,84,2,28,5,13,80,35,100
+5779,Arjun,24,Female,School,Dancing,65,89,50,100,3,72,73,22,73
+5781,Kabir,37,Male,Graduation,Photography,28,6,45,36,7,14,89,19,4
+5789,Vihaan,90,Female,School,Photography,1,100,39,33,51,32,28,3,37
+5800,Ananya,55,Female,School,Cooking,13,85,7,33,57,39,75,6,39
+5807,Aanya,38,Female,School,Gaming,75,80,45,74,50,3,58,83,46
+5810,Aarav,41,Male,Post Graduation,Painting,84,65,12,72,93,80,12,73,65
+5814,Rohan,42,Male,School,Traveling,64,17,33,77,52,20,17,76,24
+5815,Ishita,17,Male,Post Graduation,Gaming,78,21,63,80,61,28,76,11,76
+5817,Sanya,97,Male,Post Graduation,Writing,22,60,85,63,86,90,75,21,36
+5826,Krishna,53,Male,School,Sports,16,61,29,19,27,86,87,51,67
+5834,Arjun,31,Female,Post Graduation,Traveling,99,17,1,26,3,99,15,67,92
+5842,Ishita,21,Female,School,Painting,47,12,78,18,44,92,85,6,79
+5843,Ananya,90,Female,Post Graduation,Music,60,23,100,15,64,14,65,57,94
+5844,Sai,45,Male,School,Sports,10,28,33,74,67,21,39,19,60
+5859,Kabir,21,Male,School,Writing,97,90,17,24,47,75,34,24,84
+5861,Priya,33,Male,Post Graduation,Cooking,32,73,75,27,89,48,97,73,49
+5862,Myra,37,Female,Post Graduation,Music,8,21,66,42,78,78,52,72,50
+5863,Ananya,3,Male,Post Graduation,Reading,80,99,7,33,6,18,13,77,37
+5872,Kabir,36,Male,Post Graduation,Cooking,36,24,71,80,12,58,9,95,60
+5873,Vivaan,30,Female,Post Graduation,Gaming,59,94,32,73,86,24,7,0,95
+5877,Ishita,98,Female,Graduation,Painting,78,25,0,6,78,84,80,12,42
+5880,Ishita,42,Male,School,Reading,34,27,92,50,65,84,65,85,30
+5884,Vihaan,50,Female,Post Graduation,Sports,78,22,67,83,62,45,22,64,79
+5887,Myra,13,Male,School,Writing,10,99,56,94,51,68,38,30,15
+5888,Zara,50,Male,Post Graduation,Music,66,63,29,15,87,66,73,16,38
+5897,Tanvi,45,Female,Graduation,Photography,65,43,14,3,44,4,63,54,68
+5899,Ishita,79,Male,Post Graduation,Writing,9,83,10,54,27,56,57,12,65
+5901,Ishita,16,Male,School,Writing,5,64,9,3,47,55,10,32,84
+5907,Rohan,98,Female,School,Sports,0,57,27,88,3,76,74,56,44
+5909,Myra,31,Female,Graduation,Gaming,29,82,0,55,1,29,64,70,94
+5916,Diya,53,Female,School,Sports,35,28,58,94,85,77,64,32,83
+5920,Kabir,78,Female,School,Sports,2,77,0,28,41,5,47,48,0
+5925,Aditya,92,Male,School,Music,84,48,18,37,80,89,19,8,21
+5926,Vivaan,62,Female,Post Graduation,Writing,95,86,64,50,79,13,50,31,66
+5929,Arjun,94,Female,School,Traveling,2,46,88,25,36,96,53,16,74
+5931,Vihaan,23,Female,School,Painting,30,65,56,36,55,57,69,61,80
+5947,Arjun,19,Female,School,Reading,26,25,89,56,33,46,62,89,66
+5951,Sanya,22,Male,Post Graduation,Dancing,2,82,12,23,37,11,38,52,18
+5954,Zara,46,Female,Graduation,Sports,54,21,54,65,15,85,48,19,0
+5957,Aditya,77,Male,Graduation,Reading,22,37,65,75,45,98,50,48,90
+5972,Riya,65,Female,Post Graduation,Cooking,37,70,49,4,54,31,96,25,77
+5975,Riya,30,Female,Post Graduation,Reading,27,45,17,2,6,4,16,8,54
+5976,Priya,30,Male,School,Writing,58,10,58,52,53,58,66,0,13
+5978,Riya,81,Male,Post Graduation,Gaming,76,37,85,73,67,45,42,70,67
+5981,Arjun,25,Female,School,Dancing,16,46,56,4,95,33,85,18,31
+5996,Kabir,21,Male,Graduation,Reading,42,13,91,70,98,51,99,2,24
+5999,Zara,72,Female,School,Dancing,11,7,91,39,96,17,20,44,2
+6000,Zara,40,Female,Graduation,Painting,17,64,64,36,62,76,66,4,66
+6003,Zara,32,Female,Post Graduation,Painting,77,62,96,56,93,43,38,52,90
+6007,Vihaan,9,Male,Post Graduation,Painting,7,18,80,49,4,53,69,25,60
+6019,Aanya,74,Female,Post Graduation,Traveling,94,62,60,47,78,2,37,41,4
+6022,Ananya,9,Female,Graduation,Reading,56,83,73,35,24,88,19,43,61
+6025,Riya,22,Male,Graduation,Dancing,40,63,20,4,27,26,85,87,67
+6030,Myra,54,Female,Post Graduation,Photography,14,40,0,60,98,17,81,19,28
+6043,Myra,23,Male,Post Graduation,Traveling,4,60,4,9,59,98,86,0,71
+6047,Arjun,78,Male,Post Graduation,Photography,10,91,45,78,5,16,88,87,35
+6048,Tanvi,55,Female,School,Traveling,78,80,18,9,70,89,40,93,10
+6056,Kabir,72,Male,School,Traveling,99,88,81,12,87,36,48,53,61
+6063,Aanya,53,Female,School,Sports,13,82,4,33,97,52,84,18,34
+6064,Sanya,34,Male,Post Graduation,Sports,37,25,28,32,12,79,60,70,99
+6067,Aditya,91,Female,School,Photography,39,10,19,52,50,10,71,92,78
+6068,Arjun,19,Male,School,Cooking,23,84,11,7,75,13,17,80,10
+6092,Vihaan,37,Female,School,Cooking,48,48,0,81,82,32,51,92,86
+6101,Sai,54,Female,Post Graduation,Reading,17,18,28,89,43,81,88,92,26
+6106,Vivaan,43,Female,Graduation,Photography,86,57,76,62,2,8,69,51,2
+6107,Vivaan,84,Female,School,Dancing,27,49,63,29,82,93,71,99,13
+6111,Riya,52,Female,Graduation,Gaming,18,51,80,24,26,1,29,12,31
+6114,Sanya,47,Female,Graduation,Music,27,19,62,36,56,70,73,2,19
+6117,Arjun,58,Male,Graduation,Writing,39,5,73,30,89,84,7,68,75
+6119,Arjun,57,Female,School,Music,23,14,70,79,40,25,95,43,68
+6120,Aditya,60,Female,School,Photography,46,25,54,83,34,63,78,59,66
+6133,Aditya,28,Male,Graduation,Reading,20,8,35,25,76,2,77,11,89
+6147,Tanvi,99,Male,Post Graduation,Gaming,23,63,64,5,18,0,96,8,93
+6153,Sanya,96,Male,Post Graduation,Reading,16,0,21,42,2,34,62,50,67
+6155,Vivaan,96,Female,Post Graduation,Writing,76,47,86,32,42,98,83,44,1
+6156,Krishna,54,Male,Post Graduation,Dancing,57,96,87,67,45,43,39,68,57
+6157,Rohan,67,Male,Graduation,Traveling,11,98,36,67,90,11,11,67,57
+6173,Vivaan,53,Female,Graduation,Cooking,19,39,79,87,61,37,61,24,37
+6185,Aditya,65,Male,School,Reading,56,89,11,8,18,45,75,76,6
+6188,Tanvi,10,Female,Graduation,Reading,82,67,8,59,73,82,46,45,64
+6196,Riya,25,Female,Graduation,Music,45,79,27,75,9,96,1,69,72
+6206,Myra,13,Female,School,Gaming,10,36,35,100,14,39,6,49,80
+6207,Aarav,61,Male,Post Graduation,Photography,28,23,76,29,38,14,20,61,66
+6224,Aarav,9,Male,Post Graduation,Dancing,24,16,11,25,40,2,19,6,47
+6230,Riya,7,Female,School,Sports,50,76,2,10,26,3,8,40,95
+6240,Sai,58,Male,School,Dancing,8,66,95,6,21,28,24,56,39
+6254,Riya,9,Male,Graduation,Dancing,46,23,91,70,8,39,38,14,81
+6262,Sai,53,Male,School,Photography,15,92,65,1,64,69,19,28,3
+6271,Sai,73,Female,School,Traveling,17,15,98,59,43,55,55,56,86
+6273,Sanya,79,Male,Post Graduation,Sports,99,55,58,21,13,23,63,27,56
+6275,Myra,71,Male,School,Sports,50,69,52,8,77,25,67,12,27
+6277,Aarav,66,Male,Post Graduation,Painting,49,88,77,19,41,84,29,5,59
+6294,Ishita,49,Male,Graduation,Reading,37,70,45,41,53,32,58,96,45
+6296,Riya,91,Female,School,Writing,41,26,51,49,20,66,19,69,11
+6310,Krishna,93,Female,School,Painting,40,49,95,13,74,63,34,46,17
+6313,Aarav,72,Female,Graduation,Cooking,32,21,17,12,22,25,93,81,43
+6323,Zara,91,Male,Graduation,Music,69,67,4,35,54,1,10,18,55
+6333,Vivaan,21,Female,Graduation,Painting,55,93,92,56,28,34,10,36,7
+6338,Aanya,79,Male,Post Graduation,Sports,47,10,27,17,39,37,77,15,19
+6340,Priya,13,Male,School,Reading,95,19,28,3,77,1,60,88,74
+6341,Kabir,70,Female,School,Music,82,47,42,26,47,71,45,81,0
+6343,Vihaan,51,Female,Post Graduation,Sports,25,13,88,63,78,42,6,54,73
+6353,Vivaan,34,Male,Post Graduation,Painting,68,4,80,31,13,14,95,68,47
+6357,Vihaan,86,Female,School,Sports,13,57,13,26,58,85,10,0,34
+6376,Vivaan,7,Male,School,Music,43,100,33,33,29,49,12,87,1
+6383,Arjun,42,Male,Post Graduation,Music,4,2,48,33,35,38,24,84,83
+6386,Krishna,42,Male,School,Dancing,64,47,65,91,11,84,59,69,7
+6403,Tanvi,23,Male,School,Dancing,42,97,51,17,71,17,55,26,3
+6405,Tanvi,79,Male,Post Graduation,Sports,2,56,2,10,54,11,50,44,2
+6406,Krishna,88,Female,Post Graduation,Gaming,36,81,51,10,6,7,29,42,51
+6408,Kabir,93,Female,Graduation,Sports,13,95,60,70,75,77,43,81,33
+6413,Diya,98,Female,Graduation,Painting,61,58,26,57,58,47,38,56,74
+6416,Riya,11,Male,Graduation,Cooking,13,15,8,79,98,20,31,15,78
+6435,Ishita,66,Male,School,Writing,29,82,36,71,65,30,22,25,65
+6438,Rohan,93,Male,School,Music,30,0,90,97,72,41,63,16,44
+6440,Krishna,78,Female,Graduation,Traveling,52,4,38,27,93,18,65,62,51
+6443,Arjun,27,Female,School,Traveling,32,21,62,80,46,63,21,51,17
+6445,Vivaan,26,Female,Post Graduation,Sports,94,11,10,75,10,17,18,73,89
+6450,Priya,49,Female,Graduation,Sports,15,30,17,64,28,85,98,29,10
+6452,Aarav,59,Male,Post Graduation,Gaming,88,47,68,41,16,70,87,52,17
+6478,Myra,33,Male,Graduation,Dancing,27,34,59,51,56,18,27,10,31
+6481,Rohan,36,Male,Graduation,Photography,96,3,18,29,5,77,100,17,87
+6482,Ananya,46,Female,Graduation,Traveling,42,100,65,53,73,93,94,100,35
+6486,Aarav,83,Female,Post Graduation,Photography,83,4,65,27,96,4,66,32,46
+6488,Krishna,84,Male,Graduation,Painting,77,17,25,70,50,41,4,97,77
+6489,Rohan,52,Male,Graduation,Painting,36,98,70,8,82,33,23,93,71
+6490,Aditya,27,Male,Post Graduation,Dancing,44,61,20,70,54,20,13,96,23
+6494,Tanvi,55,Male,Post Graduation,Cooking,91,13,77,64,67,48,24,56,80
+6496,Sai,10,Female,Post Graduation,Gaming,24,87,60,93,36,11,69,94,89
+6501,Zara,39,Male,Graduation,Reading,2,94,74,94,13,85,32,26,11
+6506,Tanvi,14,Male,School,Dancing,76,78,7,80,35,96,29,19,12
+6510,Vihaan,92,Male,Post Graduation,Reading,6,66,47,1,90,92,25,61,73
+6512,Priya,37,Female,School,Painting,90,45,48,79,93,2,42,92,40
+6518,Aditya,68,Male,School,Photography,39,96,83,26,83,95,94,94,83
+6522,Krishna,42,Male,School,Photography,52,34,32,48,16,1,92,11,44
+6523,Aarav,62,Female,Graduation,Traveling,36,88,39,59,40,73,50,50,40
+6525,Aarav,14,Male,School,Music,41,91,61,43,77,99,19,75,89
+6527,Aryan,29,Female,School,Reading,69,36,0,61,90,8,64,13,23
+6529,Aarav,94,Female,Post Graduation,Traveling,70,76,34,61,93,3,88,97,9
+6531,Tanvi,52,Female,Graduation,Gaming,7,16,87,63,54,25,10,83,50
+6532,Vihaan,1,Male,Graduation,Painting,46,93,40,4,29,18,15,72,71
+6534,Diya,80,Male,Post Graduation,Reading,8,93,2,36,13,31,22,68,15
+6535,Vihaan,46,Female,Post Graduation,Dancing,68,42,65,57,10,43,29,41,33
+6537,Zara,24,Male,Graduation,Traveling,2,28,9,85,90,11,77,47,78
+6538,Riya,40,Male,School,Music,91,90,31,99,93,53,59,12,75
+6541,Aryan,61,Male,Graduation,Writing,87,68,85,11,33,44,92,17,51
+6545,Diya,67,Male,Graduation,Traveling,45,10,23,43,6,59,100,58,78
+6546,Diya,38,Male,School,Painting,98,70,85,66,57,9,97,10,75
+6549,Arjun,93,Male,Graduation,Photography,94,6,33,79,5,19,44,60,71
+6550,Sai,15,Female,Post Graduation,Sports,93,57,49,35,58,81,79,59,72
+6552,Myra,23,Female,Graduation,Music,98,99,23,26,8,4,36,58,26
+6555,Ananya,94,Female,School,Reading,61,91,25,60,6,58,97,81,96
+6562,Arjun,62,Female,Post Graduation,Gaming,20,100,69,56,5,4,37,95,75
+6568,Rohan,42,Male,Post Graduation,Music,25,93,7,77,29,98,37,80,2
+6572,Sai,26,Male,Graduation,Gaming,89,83,40,35,66,38,49,83,89
+6579,Aanya,8,Female,Graduation,Gaming,48,63,17,66,16,9,59,9,37
+6580,Aarav,97,Female,Post Graduation,Traveling,75,69,41,43,33,47,19,91,51
+6586,Vivaan,51,Male,School,Reading,94,50,82,71,9,23,91,41,4
+6589,Diya,32,Male,School,Dancing,8,91,35,11,6,3,48,38,40
+6599,Priya,83,Female,Graduation,Gaming,17,93,11,45,60,13,4,37,75
+6603,Aarav,80,Female,Graduation,Music,4,6,96,2,13,0,2,22,92
+6605,Myra,14,Female,Graduation,Reading,21,76,92,85,85,27,83,39,50
+6608,Priya,16,Male,Graduation,Traveling,83,65,1,68,30,71,55,30,42
+6611,Arjun,7,Male,School,Painting,68,78,92,72,12,46,78,39,75
+6620,Riya,14,Female,Post Graduation,Writing,59,43,28,85,78,88,50,40,7
+6623,Aditya,72,Female,Post Graduation,Writing,18,69,5,8,58,79,3,38,79
+6624,Aanya,33,Female,Post Graduation,Painting,35,14,8,42,75,80,42,67,62
+6633,Rohan,2,Male,Graduation,Dancing,36,42,52,20,52,92,57,33,19
+6641,Zara,95,Female,School,Painting,86,97,22,73,64,39,57,28,72
+6646,Aarav,75,Male,Post Graduation,Sports,38,90,85,48,88,75,40,49,60
+6648,Rohan,48,Female,Post Graduation,Traveling,56,65,49,11,50,74,48,90,36
+6651,Krishna,98,Male,Post Graduation,Reading,60,93,54,66,92,7,45,88,78
+6658,Vivaan,2,Female,School,Reading,58,62,88,8,42,3,39,1,80
+6660,Sanya,59,Female,School,Music,52,47,19,12,95,74,22,27,95
+6665,Myra,43,Male,School,Music,50,96,86,99,64,72,83,83,23
+6668,Kabir,23,Male,Post Graduation,Painting,51,33,84,40,30,14,28,6,70
+6671,Zara,68,Male,School,Writing,35,35,53,14,95,67,67,89,23
+6678,Sai,51,Female,Graduation,Painting,54,94,17,62,19,44,9,35,1
+6682,Zara,63,Female,Post Graduation,Cooking,89,94,53,96,4,44,94,35,11
+6684,Tanvi,91,Male,Post Graduation,Gaming,34,1,26,15,91,24,62,31,88
+6685,Krishna,1,Male,Graduation,Cooking,34,45,60,7,25,65,17,70,20
+6693,Aryan,10,Female,School,Traveling,38,61,80,94,97,70,23,52,29
+6704,Aditya,88,Female,Post Graduation,Traveling,42,75,66,33,50,30,37,55,22
+6710,Aditya,46,Female,School,Cooking,95,66,19,14,19,33,54,13,4
+6715,Ananya,47,Male,School,Traveling,100,79,8,83,55,68,65,63,16
+6717,Rohan,79,Male,Graduation,Gaming,64,18,98,98,27,74,64,71,59
+6718,Zara,19,Female,Graduation,Cooking,70,12,5,44,77,45,13,55,61
+6720,Aarav,4,Female,Post Graduation,Gaming,41,56,96,82,4,55,15,55,93
+6724,Arjun,99,Male,Post Graduation,Gaming,84,78,35,90,48,62,37,59,13
+6727,Aarav,15,Female,School,Music,46,7,32,9,60,75,43,76,96
+6728,Ananya,58,Female,Graduation,Music,45,42,54,63,34,78,63,2,72
+6730,Priya,48,Male,Graduation,Photography,31,21,86,51,26,9,47,10,65
+6735,Kabir,48,Female,Post Graduation,Sports,29,100,18,79,6,7,59,19,15
+6743,Krishna,59,Male,Post Graduation,Music,56,12,95,24,96,72,78,9,65
+6744,Ananya,49,Female,School,Traveling,5,67,6,36,0,57,27,12,34
+6748,Arjun,58,Male,School,Music,49,84,47,56,30,67,11,2,57
+6755,Kabir,14,Male,School,Sports,6,36,72,78,23,69,97,35,59
+6756,Arjun,20,Male,School,Painting,62,93,83,82,94,25,39,15,54
+6759,Aanya,5,Male,School,Writing,64,48,72,68,77,14,0,9,37
+6761,Ananya,6,Female,Post Graduation,Cooking,38,83,51,18,12,8,97,75,31
+6770,Priya,5,Male,Graduation,Music,68,73,3,55,34,100,34,9,89
+6771,Riya,6,Male,School,Photography,5,79,59,13,100,45,57,72,21
+6774,Myra,51,Female,Graduation,Cooking,68,0,29,73,44,9,29,24,24
+6776,Rohan,39,Male,Graduation,Music,67,59,57,8,12,18,53,1,81
+6777,Sanya,96,Female,Graduation,Gaming,36,91,58,83,76,23,35,55,87
+6787,Tanvi,38,Male,Graduation,Traveling,30,29,50,37,17,6,98,69,86
+6791,Ananya,46,Male,Graduation,Music,79,52,3,37,94,2,42,2,98
+6804,Aanya,94,Female,Graduation,Gaming,80,48,63,63,86,83,95,73,70
+6825,Sanya,47,Female,Post Graduation,Reading,26,22,59,81,82,74,95,39,95
+6827,Vihaan,23,Male,Post Graduation,Cooking,37,91,94,19,41,33,18,23,38
+6828,Ananya,28,Female,School,Photography,38,42,71,16,53,52,98,59,12
+6835,Vivaan,8,Female,Post Graduation,Traveling,16,94,71,46,91,73,55,32,23
+6836,Riya,45,Male,Post Graduation,Reading,76,83,3,50,5,17,8,47,4
+6843,Priya,89,Female,Post Graduation,Traveling,58,52,9,47,46,59,22,91,22
+6844,Ishita,39,Female,School,Sports,81,74,96,93,14,19,44,42,94
+6845,Aarav,12,Male,School,Sports,94,13,19,63,15,5,71,76,25
+6852,Priya,3,Male,Graduation,Reading,92,42,78,52,93,26,9,62,48
+6867,Priya,23,Female,Graduation,Photography,12,40,93,87,66,13,5,100,32
+6872,Kabir,19,Male,Graduation,Reading,21,5,50,40,14,39,93,84,88
+6876,Zara,77,Male,Post Graduation,Dancing,91,39,30,18,9,45,28,45,92
+6877,Vivaan,80,Male,Post Graduation,Dancing,75,71,98,81,65,91,87,74,56
+6879,Priya,34,Male,Graduation,Painting,64,23,73,1,61,89,36,44,57
+6883,Ananya,87,Male,Graduation,Music,18,57,7,87,26,2,72,45,51
+6885,Aanya,19,Male,Post Graduation,Painting,88,8,24,52,29,38,26,34,12
+6889,Tanvi,96,Male,Post Graduation,Dancing,7,77,58,22,77,2,47,4,68
+6890,Tanvi,54,Female,Post Graduation,Traveling,57,9,34,26,22,20,83,3,44
+6891,Ishita,74,Female,Post Graduation,Traveling,43,16,17,82,71,49,48,9,96
+6894,Aryan,45,Male,School,Photography,50,25,45,52,45,83,86,81,39
+6896,Kabir,58,Female,School,Painting,11,50,21,50,83,2,4,9,44
+6898,Priya,45,Male,Graduation,Reading,31,3,67,62,47,85,50,83,81
+6903,Zara,33,Male,Post Graduation,Reading,21,13,69,94,2,62,8,12,17
+6910,Aanya,83,Female,Post Graduation,Traveling,94,35,22,18,11,11,93,13,20
+6911,Aryan,57,Male,School,Reading,60,61,12,42,69,71,46,25,77
+6912,Ananya,76,Female,Graduation,Traveling,90,51,66,96,40,76,88,19,22
+6913,Krishna,65,Female,Graduation,Dancing,59,65,24,32,37,17,98,15,23
+6917,Riya,76,Female,Post Graduation,Gaming,11,64,37,21,82,20,41,37,84
+6924,Aarav,25,Male,Post Graduation,Gaming,19,59,39,4,32,12,66,18,75
+6937,Kabir,82,Female,Post Graduation,Reading,67,6,91,73,93,34,93,4,59
+6948,Priya,81,Female,School,Photography,61,46,6,65,14,56,81,96,26
+6953,Aryan,35,Male,Post Graduation,Writing,52,98,34,74,43,76,60,26,30
+6960,Vihaan,55,Male,Graduation,Gaming,96,19,40,44,87,43,5,91,67
+6970,Ananya,52,Male,Post Graduation,Traveling,61,80,32,53,5,45,74,54,91
+6973,Aarav,47,Male,School,Reading,79,96,9,65,49,49,16,39,35
+6977,Aanya,21,Male,School,Sports,94,12,95,59,12,7,72,53,79
+6995,Myra,91,Male,Graduation,Gaming,62,57,51,87,44,70,62,56,28
+7000,Ishita,58,Female,School,Gaming,23,73,65,39,88,4,0,30,4
+7004,Vihaan,63,Male,School,Traveling,38,28,3,7,100,36,7,63,56
+7005,Arjun,55,Female,Post Graduation,Cooking,89,51,33,23,32,36,22,4,5
+7015,Ishita,9,Female,School,Painting,69,31,65,52,18,16,63,5,67
+7019,Zara,52,Male,Graduation,Music,5,85,18,36,6,76,16,20,66
+7042,Kabir,31,Male,Graduation,Reading,83,43,100,32,31,55,89,79,71
+7052,Myra,64,Male,Post Graduation,Dancing,33,44,96,99,75,44,71,28,74
+7063,Sanya,78,Male,Graduation,Gaming,91,15,63,28,13,92,9,7,92
+7069,Aarav,29,Male,School,Gaming,48,41,13,77,33,20,10,32,19
+7073,Diya,93,Male,School,Sports,67,77,90,39,72,26,31,64,84
+7078,Arjun,8,Female,Graduation,Traveling,76,54,40,91,8,38,1,94,15
+7089,Myra,64,Male,Graduation,Traveling,58,82,71,46,66,7,1,55,47
+7092,Tanvi,40,Male,Graduation,Sports,78,22,83,97,87,31,79,39,41
+7097,Riya,10,Male,School,Music,29,95,69,33,24,80,87,57,95
+7099,Tanvi,37,Male,Graduation,Reading,90,5,11,44,70,71,60,15,23
+7101,Zara,50,Female,School,Painting,76,40,30,2,39,72,33,49,44
+7105,Priya,54,Male,School,Reading,5,95,29,15,32,50,91,63,92
+7106,Aryan,54,Male,Graduation,Photography,57,24,81,64,21,92,40,41,29
+7112,Priya,21,Male,Graduation,Reading,70,20,58,56,21,81,61,56,99
+7115,Krishna,76,Female,Graduation,Dancing,49,16,43,29,99,27,12,14,38
+7125,Vivaan,35,Female,School,Sports,8,74,5,72,81,65,29,96,60
+7129,Kabir,98,Female,Graduation,Cooking,7,98,71,37,22,99,37,97,79
+7138,Priya,27,Female,School,Gaming,9,5,10,83,95,36,61,38,17
+7139,Sanya,97,Female,Graduation,Reading,74,74,75,60,21,43,60,43,71
+7141,Sanya,64,Male,School,Sports,82,91,24,10,6,62,8,24,20
+7142,Vihaan,81,Female,Graduation,Writing,99,42,99,3,17,21,22,20,22
+7145,Vivaan,86,Female,Graduation,Writing,90,54,62,25,16,26,30,30,86
+7146,Ishita,18,Male,Post Graduation,Photography,10,23,98,70,55,70,55,10,14
+7157,Vihaan,98,Female,Graduation,Dancing,37,54,94,2,84,60,4,53,93
+7160,Rohan,80,Male,School,Writing,88,27,39,41,49,38,68,62,16
+7164,Aanya,75,Male,Graduation,Writing,24,100,61,56,75,50,30,64,24
+7165,Aryan,20,Male,Graduation,Reading,14,63,9,79,85,7,46,99,7
+7171,Sai,14,Female,School,Music,24,92,99,76,63,26,2,44,34
+7172,Myra,36,Male,Graduation,Gaming,66,99,10,6,89,45,82,43,10
+7176,Riya,18,Male,Post Graduation,Sports,9,61,48,79,68,35,14,82,71
+7183,Aarav,45,Male,Post Graduation,Cooking,74,54,25,34,49,62,15,37,14
+7185,Aarav,80,Male,Post Graduation,Cooking,50,26,41,99,66,72,7,9,60
+7188,Myra,84,Male,Post Graduation,Dancing,24,95,6,1,14,38,72,32,81
+7200,Tanvi,24,Female,Post Graduation,Gaming,19,3,27,75,39,46,88,54,96
+7202,Aanya,18,Male,Graduation,Painting,6,64,23,99,7,77,72,7,60
+7204,Sanya,73,Male,Post Graduation,Music,33,38,46,5,24,83,38,40,82
+7206,Sanya,8,Male,Post Graduation,Reading,7,95,19,82,54,62,32,26,8
+7210,Aanya,15,Male,Graduation,Sports,38,79,0,30,46,16,60,49,45
+7216,Arjun,64,Female,School,Cooking,73,8,74,52,62,68,75,90,57
+7217,Aditya,96,Male,Post Graduation,Reading,63,40,98,13,81,84,29,84,35
+7219,Vihaan,46,Male,Post Graduation,Music,66,95,2,57,69,88,78,58,92
+7222,Aarav,42,Female,Post Graduation,Music,67,25,87,9,97,97,92,98,56
+7228,Priya,6,Male,Graduation,Gaming,76,42,20,69,6,97,76,63,42
+7231,Sai,59,Male,Graduation,Sports,32,66,70,86,86,22,79,89,78
+7237,Vivaan,95,Female,Post Graduation,Traveling,25,93,55,24,89,56,94,99,83
+7253,Priya,64,Male,School,Reading,24,95,24,77,99,100,62,94,57
+7258,Diya,96,Male,Graduation,Traveling,36,86,20,41,87,23,92,55,62
+7272,Aarav,30,Male,Post Graduation,Cooking,22,18,64,11,68,56,7,33,7
+7274,Zara,47,Female,Graduation,Traveling,73,49,57,8,36,55,88,23,88
+7283,Rohan,53,Female,School,Painting,39,49,50,38,23,44,21,62,41
+7303,Tanvi,91,Male,Post Graduation,Photography,43,38,0,58,70,78,23,67,100
+7306,Vihaan,41,Female,School,Music,76,7,55,60,88,46,93,11,8
+7312,Ishita,53,Male,Graduation,Writing,51,0,97,91,2,42,66,82,82
+7328,Vivaan,16,Male,Post Graduation,Writing,77,26,79,53,34,1,43,41,32
+7329,Riya,63,Female,Graduation,Sports,57,33,97,17,100,59,47,12,34
+7333,Arjun,66,Male,Post Graduation,Sports,51,83,38,60,93,40,23,42,10
+7336,Vivaan,78,Female,School,Photography,90,78,85,66,18,90,48,45,13
+7337,Zara,47,Female,School,Music,59,94,97,80,44,88,3,75,48
+7341,Vihaan,83,Female,School,Writing,35,20,5,42,51,84,93,49,43
+7342,Arjun,57,Female,Post Graduation,Reading,73,68,90,57,37,30,77,44,99
+7359,Aanya,71,Female,Post Graduation,Painting,32,23,9,10,69,96,90,9,70
+7361,Aditya,8,Female,Graduation,Music,10,49,28,20,64,48,13,41,75
+7365,Arjun,61,Female,Graduation,Dancing,40,42,21,72,83,19,56,66,46
+7370,Aanya,83,Male,Graduation,Sports,18,86,95,67,19,23,99,31,28
+7372,Rohan,27,Female,Post Graduation,Gaming,56,95,24,26,5,74,38,74,46
+7377,Sai,48,Male,School,Writing,20,21,71,74,79,75,74,10,53
+7389,Diya,16,Male,Graduation,Writing,17,71,79,40,41,61,49,34,49
+7390,Sai,62,Male,School,Reading,11,49,52,18,79,79,50,10,64
+7395,Aryan,94,Male,Post Graduation,Dancing,24,44,1,8,95,82,58,63,54
+7396,Sai,68,Male,Graduation,Dancing,48,21,48,75,80,63,77,87,53
+7411,Vivaan,39,Male,Graduation,Photography,72,72,29,45,46,69,10,8,1
+7413,Aryan,16,Female,Post Graduation,Dancing,73,21,87,81,95,13,46,56,80
+7417,Zara,77,Male,Graduation,Reading,40,80,31,76,70,91,14,19,2
+7422,Aanya,42,Female,School,Dancing,5,34,6,72,10,10,34,87,62
+7425,Aryan,77,Male,Graduation,Painting,42,6,72,86,68,61,27,81,97
+7439,Zara,27,Male,School,Traveling,26,64,1,27,75,15,89,20,24
+7445,Sai,70,Female,School,Cooking,28,38,59,49,5,36,40,54,25
+7446,Aanya,11,Female,Graduation,Dancing,72,97,42,85,56,82,29,70,22
+7447,Aanya,65,Male,Graduation,Cooking,6,96,73,22,12,57,4,39,37
+7449,Aarav,33,Male,Graduation,Reading,81,9,27,49,88,10,37,68,57
+7453,Aanya,56,Male,Post Graduation,Painting,24,26,4,23,77,73,62,55,95
+7461,Krishna,91,Male,Graduation,Cooking,36,12,22,40,95,15,53,46,58
+7462,Diya,86,Female,Graduation,Music,11,1,34,59,46,13,72,33,43
+7466,Ananya,12,Female,Graduation,Gaming,0,83,16,82,7,59,57,78,94
+7474,Vivaan,24,Female,School,Writing,99,63,22,83,3,69,52,36,84
+7478,Riya,30,Male,School,Painting,69,65,87,76,0,99,92,99,27
+7482,Aanya,16,Female,Post Graduation,Dancing,49,45,29,81,81,26,57,64,24
+7487,Priya,98,Female,School,Dancing,84,87,28,32,1,79,99,0,36
+7491,Tanvi,17,Male,Graduation,Writing,9,91,4,93,28,16,13,68,8
+7498,Vihaan,82,Female,Post Graduation,Music,78,20,92,45,30,15,30,53,20
+7499,Aditya,31,Male,Post Graduation,Cooking,69,57,73,98,81,12,0,66,41
+7504,Aditya,29,Female,School,Traveling,2,86,47,29,2,84,56,1,43
+7507,Aditya,18,Female,Graduation,Dancing,33,42,96,19,7,22,17,87,33
+7510,Sai,39,Female,Post Graduation,Reading,18,62,100,72,68,78,11,45,57
+7511,Ananya,11,Female,Graduation,Writing,7,17,19,17,41,92,12,17,22
+7513,Tanvi,77,Male,School,Writing,77,82,41,38,83,65,7,68,21
+7528,Tanvi,15,Male,Post Graduation,Writing,70,96,58,57,7,30,29,63,59
+7531,Ananya,93,Male,Post Graduation,Photography,5,97,41,84,97,63,96,91,41
+7534,Krishna,13,Female,Post Graduation,Photography,60,23,75,33,93,51,78,93,55
+7544,Sanya,81,Female,Post Graduation,Writing,37,29,42,38,57,83,58,51,16
+7545,Aarav,43,Male,Graduation,Gaming,58,87,15,99,65,88,44,67,0
+7547,Tanvi,27,Male,School,Cooking,79,99,56,89,57,91,38,53,57
+7548,Sai,66,Female,Post Graduation,Dancing,34,7,69,57,90,90,87,85,46
+7552,Diya,37,Male,Post Graduation,Music,89,15,70,76,8,59,25,32,6
+7557,Diya,78,Male,School,Music,12,0,69,98,82,52,32,12,21
+7560,Sai,33,Female,School,Sports,28,26,31,66,96,35,50,80,74
+7563,Aanya,5,Female,Post Graduation,Writing,81,72,92,27,76,10,55,38,40
+7567,Zara,74,Male,School,Music,92,37,8,12,26,13,12,17,31
+7571,Arjun,83,Male,Post Graduation,Traveling,45,94,46,41,50,54,96,84,16
+7579,Arjun,32,Female,Graduation,Gaming,66,16,51,30,6,1,29,76,86
+7583,Vihaan,82,Male,School,Gaming,4,48,31,56,33,52,4,82,94
+7587,Aditya,53,Female,Graduation,Sports,95,27,6,30,11,55,92,56,97
+7590,Aryan,97,Male,School,Sports,57,88,32,50,4,28,61,66,81
+7595,Sai,71,Male,School,Painting,14,94,23,83,48,85,95,43,40
+7597,Krishna,18,Female,School,Gaming,3,81,86,16,75,11,52,69,3
+7608,Krishna,25,Female,Graduation,Writing,11,36,61,82,85,9,49,66,28
+7617,Ananya,61,Female,School,Painting,45,66,29,30,50,58,0,14,72
+7618,Sai,95,Female,School,Painting,69,36,47,65,31,87,60,72,81
+7620,Rohan,83,Male,School,Sports,100,48,5,97,48,31,35,51,56
+7621,Vihaan,55,Male,Graduation,Traveling,83,16,84,92,61,6,65,79,34
+7626,Tanvi,15,Female,Graduation,Writing,26,2,80,46,50,92,52,83,68
+7627,Aryan,1,Female,Graduation,Music,16,50,12,48,62,59,31,22,40
+7640,Arjun,25,Male,Post Graduation,Painting,13,79,7,32,98,81,77,33,96
+7643,Aditya,11,Female,Graduation,Reading,81,81,84,37,73,14,45,62,91
+7648,Priya,96,Male,School,Cooking,49,75,36,64,94,17,2,70,64
+7656,Riya,57,Female,Post Graduation,Dancing,44,17,41,5,95,68,26,100,69
+7657,Tanvi,9,Male,Post Graduation,Writing,17,58,54,4,6,16,49,0,10
+7658,Vihaan,83,Male,Graduation,Cooking,54,10,64,44,96,74,27,12,31
+7671,Riya,50,Female,Post Graduation,Sports,25,13,0,8,97,39,80,15,83
+7681,Riya,20,Female,Graduation,Photography,100,94,42,40,27,97,42,72,65
+7687,Zara,76,Male,Post Graduation,Gaming,85,64,16,38,42,2,100,40,64
+7688,Vihaan,42,Female,Graduation,Photography,97,89,58,28,54,20,62,4,53
+7690,Ishita,65,Female,Post Graduation,Dancing,72,82,86,47,53,11,54,87,26
+7694,Sanya,4,Male,Graduation,Photography,44,2,31,12,1,7,28,56,1
+7697,Tanvi,25,Female,School,Cooking,39,52,79,33,71,74,59,23,78
+7713,Diya,87,Male,Post Graduation,Music,62,5,65,25,85,11,2,56,93
+7716,Aanya,95,Female,School,Traveling,63,96,92,8,78,9,96,78,64
+7721,Aarav,19,Female,School,Sports,54,47,73,30,98,15,52,52,16
+7722,Aryan,96,Female,School,Reading,64,93,16,25,8,80,45,69,100
+7723,Sai,10,Male,Post Graduation,Traveling,36,100,45,85,31,0,85,94,28
+7729,Vihaan,23,Male,Graduation,Dancing,86,94,80,89,29,36,72,40,50
+7741,Sai,84,Female,Graduation,Reading,50,68,50,62,42,25,93,34,40
+7742,Myra,22,Male,School,Traveling,24,21,32,48,41,74,5,2,44
+7752,Aanya,14,Female,Graduation,Reading,85,48,28,5,83,99,83,32,10
+7757,Zara,34,Female,School,Writing,69,84,7,23,33,47,64,7,16
+7760,Ishita,92,Female,School,Music,70,52,95,100,58,78,15,97,3
+7762,Krishna,8,Female,Graduation,Writing,10,52,92,31,13,97,20,9,76
+7766,Sai,13,Female,Post Graduation,Music,48,2,71,29,22,78,90,60,91
+7769,Krishna,71,Female,Post Graduation,Photography,100,5,88,72,36,17,38,53,78
+7772,Sanya,10,Male,School,Cooking,66,24,23,72,54,96,51,15,56
+7789,Vihaan,98,Female,School,Writing,56,27,81,94,31,93,90,22,38
+7793,Aarav,83,Female,Post Graduation,Sports,99,16,1,89,55,79,85,31,3
+7808,Aryan,31,Female,School,Dancing,56,64,91,1,8,15,29,84,74
+7813,Arjun,7,Female,Post Graduation,Cooking,82,72,14,93,15,13,47,88,35
+7816,Vihaan,8,Male,School,Writing,94,20,90,48,98,47,33,5,12
+7819,Aarav,45,Female,School,Painting,21,86,78,64,4,65,54,61,37
+7824,Priya,74,Female,Graduation,Dancing,75,38,92,66,31,45,32,10,53
+7826,Tanvi,42,Female,School,Traveling,30,69,63,1,3,8,28,9,48
+7827,Zara,23,Female,Graduation,Photography,20,66,27,100,67,59,72,5,60
+7828,Sanya,29,Male,School,Photography,90,46,89,3,50,31,6,30,11
+7829,Riya,10,Male,Graduation,Painting,70,81,93,99,64,12,20,5,26
+7847,Aryan,79,Male,Graduation,Gaming,73,28,40,46,98,57,65,84,73
+7849,Priya,32,Female,School,Reading,30,60,76,33,0,42,38,81,47
+7850,Ananya,94,Female,Post Graduation,Painting,43,25,44,45,26,100,42,11,35
+7851,Myra,44,Female,Post Graduation,Cooking,93,53,85,65,75,13,16,8,71
+7857,Tanvi,58,Male,Post Graduation,Writing,18,91,55,6,78,1,16,52,53
+7871,Aarav,69,Male,School,Reading,26,73,28,35,1,11,1,53,47
+7872,Kabir,48,Male,Graduation,Reading,63,6,59,5,36,61,2,89,23
+7877,Aryan,90,Female,School,Reading,76,3,90,77,16,97,23,40,0
+7894,Myra,21,Male,Graduation,Reading,15,3,18,89,80,21,98,53,73
+7895,Diya,31,Male,School,Cooking,24,43,33,58,90,94,32,45,34
+7904,Aarav,51,Female,Graduation,Traveling,38,61,10,75,66,28,83,19,8
+7918,Arjun,40,Male,Graduation,Writing,73,30,43,88,14,40,94,95,25
+7925,Vihaan,31,Female,Post Graduation,Reading,15,87,62,10,6,43,23,52,21
+7931,Sanya,59,Female,Graduation,Gaming,74,72,39,66,13,19,17,0,38
+7933,Sai,77,Male,Post Graduation,Traveling,18,50,72,37,65,19,44,60,96
+7938,Diya,6,Female,Post Graduation,Writing,23,10,3,76,55,74,84,6,55
+7939,Sai,27,Male,School,Gaming,78,7,69,7,87,87,15,58,99
+7946,Ananya,99,Female,School,Sports,25,83,53,18,24,99,72,23,23
+7961,Sai,35,Male,Graduation,Reading,96,34,35,11,51,44,46,42,16
+7962,Riya,34,Male,Graduation,Sports,9,49,9,83,35,98,55,35,86
+7967,Tanvi,9,Female,Graduation,Sports,26,52,29,70,72,88,54,97,30
+7979,Diya,38,Female,School,Dancing,25,36,95,17,25,14,18,20,32
+7984,Tanvi,93,Female,School,Dancing,53,52,100,37,76,35,81,11,20
+7988,Rohan,35,Female,Graduation,Music,60,51,17,64,53,74,21,63,38
+7990,Sanya,22,Female,Post Graduation,Music,9,33,99,29,58,39,2,56,79
+7991,Tanvi,33,Male,Post Graduation,Dancing,21,37,0,37,46,50,55,21,64
+8002,Kabir,33,Female,Graduation,Gaming,8,25,26,67,56,89,61,76,36
+8008,Aanya,90,Female,Graduation,Dancing,16,56,80,56,87,79,44,61,2
+8016,Ishita,53,Female,School,Sports,69,52,82,8,63,3,60,12,38
+8018,Sai,11,Male,Post Graduation,Cooking,50,44,82,4,51,67,34,12,79
+8029,Vihaan,9,Female,Post Graduation,Photography,60,11,26,83,69,96,72,21,51
+8033,Ananya,19,Male,School,Dancing,60,97,34,39,50,56,34,24,78
+8035,Ananya,8,Male,Graduation,Reading,85,3,50,69,20,66,83,24,36
+8036,Aditya,82,Female,School,Dancing,82,90,0,93,11,94,90,47,92
+8038,Vihaan,12,Male,School,Reading,38,10,82,22,21,78,3,97,60
+8046,Aditya,78,Male,Graduation,Painting,38,90,65,48,28,16,98,50,3
+8057,Aarav,14,Female,School,Photography,77,53,76,6,81,66,42,32,80
+8072,Aditya,38,Female,Post Graduation,Music,33,17,20,36,54,6,85,9,16
+8083,Arjun,52,Female,School,Traveling,79,11,66,100,54,13,83,83,81
+8084,Sai,86,Male,Graduation,Traveling,70,4,98,91,3,28,48,49,74
+8097,Vihaan,51,Male,School,Traveling,25,53,37,11,76,59,97,98,51
+8115,Aanya,59,Female,Graduation,Music,64,50,38,84,95,36,12,33,46
+8128,Riya,48,Male,Graduation,Gaming,6,1,3,82,94,61,56,79,60
+8143,Arjun,71,Male,Post Graduation,Cooking,70,91,65,35,97,69,59,23,65
+8146,Aarav,63,Male,Post Graduation,Dancing,4,3,74,86,41,64,75,79,20
+8150,Arjun,79,Female,Graduation,Sports,75,72,49,91,90,30,33,49,40
+8152,Aditya,61,Male,School,Painting,12,92,24,20,62,94,16,65,75
+8156,Priya,77,Male,School,Cooking,91,52,69,96,74,37,99,16,94
+8164,Vivaan,89,Female,Post Graduation,Cooking,99,83,76,6,56,47,25,32,84
+8166,Sanya,70,Female,Post Graduation,Dancing,42,68,35,72,92,63,22,0,96
+8169,Aditya,9,Female,Graduation,Reading,99,9,82,8,84,11,9,88,31
+8170,Vivaan,23,Male,Graduation,Music,51,65,68,41,16,11,11,44,74
+8186,Krishna,12,Female,Graduation,Painting,98,65,3,85,89,9,88,21,28
+8191,Aditya,55,Male,Graduation,Photography,16,72,67,32,38,40,63,0,59
+8192,Aryan,23,Male,Graduation,Music,73,51,23,82,76,53,41,2,89
+8201,Ishita,44,Male,School,Sports,66,18,93,86,35,6,88,33,85
+8211,Ishita,77,Male,School,Gaming,21,61,91,21,86,92,50,7,100
+8215,Sai,56,Female,Post Graduation,Photography,0,91,34,70,57,33,80,83,5
+8216,Kabir,2,Female,School,Reading,43,76,40,53,14,78,80,37,11
+8218,Rohan,19,Female,Graduation,Photography,94,80,80,10,68,43,20,97,39
+8221,Sanya,7,Male,School,Writing,91,19,34,58,71,33,89,89,39
+8230,Priya,16,Male,Graduation,Music,50,78,95,99,43,26,0,94,32
+8237,Vivaan,59,Male,Graduation,Reading,16,9,31,9,15,69,90,48,24
+8241,Arjun,46,Male,Post Graduation,Gaming,73,61,94,23,13,93,48,42,0
+8242,Vivaan,88,Female,Post Graduation,Cooking,26,21,94,85,62,36,7,2,61
+8246,Vihaan,31,Male,Post Graduation,Gaming,41,7,40,27,51,48,47,46,2
+8250,Aanya,62,Male,Post Graduation,Photography,70,72,35,99,54,49,56,36,87
+8259,Zara,10,Female,School,Painting,28,23,86,67,14,52,89,18,51
+8264,Aanya,25,Male,Graduation,Reading,46,0,85,9,4,24,44,89,36
+8269,Tanvi,88,Female,Post Graduation,Writing,92,48,12,48,71,88,66,88,53
+8280,Diya,53,Male,Graduation,Writing,85,99,18,31,41,4,57,82,19
+8283,Kabir,90,Male,School,Dancing,21,25,81,9,66,95,38,42,69
+8290,Zara,46,Male,School,Writing,25,45,86,5,7,40,28,59,83
+8292,Aarav,12,Female,Post Graduation,Reading,68,90,23,8,100,74,35,83,58
+8296,Vihaan,30,Male,School,Traveling,72,41,75,7,44,64,83,20,69
+8297,Diya,37,Male,School,Dancing,81,7,26,89,64,74,60,72,23
+8298,Zara,34,Female,Graduation,Reading,85,54,45,46,88,72,14,55,95
+8299,Ananya,14,Female,Graduation,Cooking,92,17,83,24,70,26,84,73,1
+8301,Vivaan,26,Male,Graduation,Traveling,64,50,25,84,23,54,42,46,57
+8303,Sanya,67,Male,Graduation,Writing,94,82,35,42,24,82,11,23,29
+8306,Kabir,76,Male,Post Graduation,Music,14,79,2,42,38,25,53,41,66
+8320,Krishna,89,Female,School,Traveling,67,69,56,84,31,58,68,90,83
+8321,Myra,89,Male,Graduation,Photography,8,6,13,29,31,44,29,17,67
+8323,Aarav,99,Female,School,Reading,9,63,67,18,61,23,21,88,10
+8328,Aryan,46,Male,Graduation,Cooking,34,100,48,78,32,36,2,29,41
+8332,Rohan,35,Female,School,Music,78,35,74,16,78,80,63,100,19
+8347,Vivaan,96,Male,Graduation,Dancing,74,5,50,36,51,68,100,10,70
+8349,Riya,31,Male,School,Painting,47,76,45,89,83,13,36,44,96
+8350,Krishna,22,Female,School,Dancing,9,97,95,38,24,11,11,48,66
+8352,Priya,39,Male,Graduation,Photography,79,64,11,74,47,71,44,16,47
+8358,Priya,30,Male,School,Photography,70,97,3,48,61,8,26,53,77
+8361,Priya,15,Female,Post Graduation,Dancing,42,90,89,39,11,93,67,35,3
+8372,Sanya,48,Female,Post Graduation,Cooking,79,99,68,80,48,86,74,88,100
+8377,Aarav,9,Female,Post Graduation,Photography,16,54,70,20,4,38,0,78,35
+8381,Sanya,9,Female,Post Graduation,Music,85,49,12,96,73,84,69,69,60
+8382,Zara,79,Male,School,Traveling,89,90,70,51,49,87,80,43,46
+8385,Vihaan,5,Female,School,Painting,71,37,76,31,81,93,49,91,51
+8389,Riya,8,Male,School,Gaming,80,0,74,10,70,13,32,51,76
+8391,Tanvi,37,Female,Post Graduation,Photography,37,42,40,7,38,21,39,44,34
+8395,Aryan,49,Female,School,Music,37,51,23,82,41,33,26,21,88
+8403,Aarav,28,Female,School,Sports,26,12,85,39,62,8,24,44,88
+8404,Vivaan,47,Male,School,Dancing,0,2,16,17,45,56,21,60,91
+8407,Ananya,92,Female,Post Graduation,Reading,81,50,32,97,81,10,22,74,93
+8408,Ishita,30,Male,Graduation,Sports,47,49,62,76,18,90,59,5,66
+8409,Priya,18,Female,Graduation,Traveling,61,92,34,57,99,42,46,63,81
+8410,Aanya,38,Female,Graduation,Music,64,90,85,10,93,72,54,63,82
+8411,Sanya,43,Female,Graduation,Dancing,70,32,56,63,38,84,54,43,87
+8427,Zara,14,Male,School,Reading,40,50,94,57,8,83,64,65,67
+8440,Ananya,65,Female,Graduation,Painting,84,64,97,18,90,25,38,63,75
+8441,Aarav,46,Female,School,Traveling,61,57,92,14,36,95,48,84,26
+8444,Krishna,4,Male,Post Graduation,Music,9,6,76,18,73,96,27,95,93
+8450,Krishna,44,Female,School,Photography,40,94,96,6,56,71,59,8,79
+8455,Aanya,5,Female,School,Reading,36,69,88,63,81,72,61,45,89
+8456,Vivaan,2,Female,Post Graduation,Writing,22,10,31,89,81,29,52,44,97
+8459,Riya,8,Male,Graduation,Writing,30,4,13,95,22,15,86,23,11
+8471,Priya,7,Male,Post Graduation,Reading,50,50,67,93,85,76,31,96,46
+8474,Riya,76,Male,Post Graduation,Cooking,91,85,57,27,89,33,13,95,96
+8478,Aryan,72,Male,Post Graduation,Writing,44,81,94,36,89,57,94,100,40
+8484,Aanya,25,Female,School,Dancing,20,54,65,74,15,59,56,19,24
+8493,Aryan,27,Female,School,Music,32,94,95,68,65,42,53,10,12
+8501,Priya,54,Male,Post Graduation,Traveling,5,78,86,29,89,12,65,57,76
+8506,Krishna,37,Female,Post Graduation,Dancing,81,60,70,9,72,100,52,99,32
+8507,Diya,75,Male,School,Cooking,97,52,62,99,88,4,74,50,70
+8518,Priya,72,Male,School,Gaming,2,77,56,32,59,55,84,82,50
+8521,Vihaan,67,Male,Post Graduation,Gaming,55,55,2,76,51,98,66,63,99
+8526,Kabir,66,Male,Graduation,Traveling,10,67,18,14,94,49,17,74,17
+8528,Sai,32,Female,Graduation,Traveling,46,73,3,52,13,90,47,5,60
+8529,Aditya,3,Male,Graduation,Writing,78,87,25,11,82,79,42,13,82
+8539,Priya,50,Female,School,Sports,80,33,3,64,93,50,96,37,30
+8540,Diya,48,Male,Post Graduation,Cooking,100,76,79,9,89,72,57,38,58
+8551,Myra,75,Male,School,Cooking,30,8,9,15,19,87,81,78,87
+8556,Diya,56,Female,Graduation,Traveling,65,21,47,38,24,34,54,3,62
+8571,Sanya,95,Male,Graduation,Gaming,38,87,56,27,18,93,92,35,91
+8576,Tanvi,92,Female,Post Graduation,Music,69,62,61,100,48,95,41,1,100
+8578,Zara,30,Female,Post Graduation,Music,17,48,59,46,93,25,100,54,91
+8583,Sai,15,Female,Post Graduation,Dancing,91,70,72,22,13,7,67,82,69
+8584,Rohan,1,Female,Graduation,Traveling,70,48,70,31,12,23,80,88,38
+8585,Arjun,92,Female,School,Photography,57,95,39,44,77,51,14,1,98
+8588,Ananya,16,Male,Graduation,Dancing,93,59,50,42,22,85,6,11,28
+8600,Zara,80,Male,Graduation,Sports,42,63,85,85,30,98,84,67,46
+8601,Sanya,12,Male,School,Music,65,40,45,83,99,7,70,59,5
+8602,Ananya,57,Male,Graduation,Photography,82,50,74,11,7,61,53,10,26
+8618,Priya,68,Female,School,Cooking,6,75,74,50,87,59,68,89,46
+8623,Arjun,39,Male,School,Sports,89,55,48,72,27,26,61,96,38
+8624,Riya,50,Male,Post Graduation,Sports,6,1,26,57,25,21,60,85,98
+8643,Arjun,72,Male,School,Gaming,50,74,34,75,29,53,53,26,37
+8648,Ananya,84,Female,School,Reading,82,14,42,100,9,8,58,12,93
+8660,Myra,45,Female,School,Reading,71,17,55,27,41,14,76,29,47
+8661,Aanya,93,Male,Post Graduation,Sports,46,63,95,29,13,80,15,59,38
+8666,Kabir,94,Male,School,Cooking,44,16,20,48,56,58,91,77,53
+8676,Sai,27,Male,Post Graduation,Painting,5,90,52,92,38,19,42,57,3
+8679,Kabir,8,Male,Post Graduation,Cooking,80,84,57,71,9,78,11,55,20
+8686,Arjun,20,Female,Post Graduation,Traveling,85,93,70,54,23,37,65,39,27
+8689,Krishna,79,Male,Post Graduation,Painting,4,43,16,13,64,29,26,74,27
+8693,Ananya,26,Male,Post Graduation,Dancing,71,6,0,43,50,25,37,48,91
+8697,Aanya,89,Female,Post Graduation,Dancing,84,52,40,89,68,29,32,24,44
+8707,Aryan,22,Male,Post Graduation,Sports,25,61,20,15,31,66,54,45,0
+8711,Aarav,77,Female,Post Graduation,Gaming,34,24,41,35,13,13,42,54,92
+8715,Aanya,65,Male,Graduation,Reading,18,5,29,91,85,35,30,77,13
+8720,Priya,82,Male,Graduation,Traveling,77,4,86,90,70,88,41,71,70
+8728,Diya,93,Male,Post Graduation,Traveling,96,86,34,63,34,83,86,100,74
+8737,Kabir,96,Male,Graduation,Traveling,74,55,48,73,95,69,13,24,45
+8738,Krishna,68,Male,Post Graduation,Painting,61,30,15,12,73,9,94,92,15
+8745,Vivaan,16,Female,School,Reading,70,25,29,79,45,38,33,56,100
+8746,Vihaan,47,Male,Graduation,Music,2,73,55,60,68,30,2,68,65
+8748,Vihaan,51,Female,Graduation,Writing,21,80,72,72,66,27,49,72,64
+8749,Ishita,5,Female,School,Sports,11,32,29,27,23,84,62,56,15
+8757,Arjun,65,Male,Graduation,Painting,35,97,9,58,55,71,23,47,35
+8759,Myra,50,Female,Post Graduation,Sports,2,29,82,100,74,35,73,43,93
+8770,Krishna,19,Female,Post Graduation,Gaming,87,75,75,30,33,83,88,25,7
+8777,Diya,92,Female,Graduation,Painting,52,84,50,44,15,76,50,49,40
+8778,Tanvi,47,Female,School,Traveling,86,88,79,89,51,3,90,21,52
+8787,Kabir,59,Male,Graduation,Painting,71,14,35,47,30,7,83,65,40
+8798,Rohan,64,Male,Post Graduation,Sports,98,44,31,44,41,14,3,6,8
+8799,Priya,65,Female,Graduation,Sports,21,70,22,98,76,76,34,19,34
+8800,Aarav,45,Male,Graduation,Reading,51,45,18,86,2,41,12,26,78
+8801,Arjun,2,Male,Graduation,Writing,99,96,59,62,23,73,17,73,6
+8802,Aryan,34,Male,Post Graduation,Painting,31,87,98,41,81,44,0,23,22
+8807,Ishita,42,Female,Graduation,Reading,49,60,15,84,48,16,42,15,84
+8814,Vihaan,64,Female,Post Graduation,Cooking,100,72,5,98,25,77,83,59,58
+8818,Vihaan,31,Female,Post Graduation,Traveling,60,19,17,36,100,73,14,68,44
+8825,Krishna,68,Female,Post Graduation,Gaming,69,26,86,85,71,95,24,54,87
+8828,Vihaan,10,Female,Graduation,Reading,85,70,38,65,60,73,68,91,65
+8832,Vivaan,81,Male,Graduation,Photography,8,16,19,38,24,36,4,8,96
+8844,Priya,46,Female,Graduation,Photography,9,50,11,15,62,82,20,68,66
+8853,Tanvi,98,Male,School,Writing,11,22,77,43,40,37,45,32,77
+8855,Sanya,6,Female,School,Traveling,63,69,12,9,44,75,99,13,12
+8858,Ishita,40,Male,School,Dancing,10,59,53,65,30,51,84,62,85
+8859,Zara,65,Male,Graduation,Music,13,61,17,63,72,19,36,0,24
+8860,Rohan,9,Male,Post Graduation,Photography,83,3,53,98,50,95,26,38,26
+8863,Rohan,53,Male,Graduation,Photography,92,78,0,2,20,17,30,26,26
+8867,Myra,17,Male,Post Graduation,Sports,63,40,41,25,44,54,2,78,4
+8872,Sai,61,Male,School,Painting,18,83,41,11,16,38,14,0,83
+8876,Krishna,69,Male,Post Graduation,Dancing,19,82,77,5,90,71,9,93,83
+8879,Kabir,93,Female,School,Photography,87,79,24,13,49,78,38,38,33
+8882,Aarav,66,Male,School,Photography,65,9,0,15,52,93,44,14,4
+8885,Riya,9,Female,Post Graduation,Photography,18,45,74,2,33,39,96,73,34
+8886,Rohan,73,Male,School,Dancing,27,65,34,70,4,75,93,17,95
+8894,Rohan,63,Female,School,Cooking,3,67,93,14,9,75,20,66,67
+8901,Vivaan,44,Male,Post Graduation,Dancing,22,96,9,44,3,88,75,39,1
+8911,Ishita,30,Male,Graduation,Traveling,40,59,8,7,67,71,49,37,100
+8913,Ishita,70,Female,Post Graduation,Sports,47,4,52,66,40,8,33,65,73
+8914,Zara,6,Female,School,Dancing,33,1,30,91,88,9,60,35,85
+8915,Myra,90,Female,Post Graduation,Reading,26,83,94,45,79,19,44,81,93
+8923,Zara,9,Male,Post Graduation,Sports,59,5,62,69,28,44,16,84,81
+8924,Sanya,46,Male,School,Writing,76,77,78,15,41,13,23,27,19
+8927,Aditya,71,Male,School,Writing,50,75,7,66,17,63,61,49,58
+8929,Riya,9,Male,Post Graduation,Cooking,14,19,69,50,48,77,50,31,4
+8936,Kabir,43,Female,School,Sports,7,60,71,13,31,64,69,37,5
+8942,Vihaan,6,Female,Post Graduation,Cooking,64,75,96,88,95,33,47,69,95
+8946,Myra,39,Female,Post Graduation,Writing,72,54,61,29,67,45,56,38,12
+8955,Zara,39,Male,Graduation,Gaming,14,52,60,67,68,39,11,58,55
+8957,Rohan,43,Male,Post Graduation,Dancing,34,84,71,59,5,52,22,68,45
+8958,Aanya,51,Female,Graduation,Photography,90,43,17,79,34,99,6,99,66
+8961,Vihaan,1,Female,School,Gaming,42,53,27,62,5,9,74,90,41
+8962,Aarav,24,Female,School,Music,14,40,39,16,70,59,53,67,47
+8965,Aryan,20,Male,Post Graduation,Reading,54,8,17,36,8,43,48,56,29
+8977,Vihaan,20,Female,School,Gaming,5,15,70,53,18,67,69,6,33
+8978,Aarav,6,Male,School,Cooking,90,68,96,42,9,2,24,82,36
+8986,Diya,34,Male,Post Graduation,Reading,99,12,4,69,79,46,68,47,86
+8987,Diya,63,Female,School,Sports,15,56,6,28,13,3,26,3,34
+8988,Arjun,29,Male,School,Painting,86,90,39,80,99,29,92,22,27
+8993,Krishna,24,Female,School,Music,22,30,49,30,50,36,49,34,97
+8994,Vivaan,62,Female,School,Photography,11,92,88,94,90,20,36,85,88
+9017,Tanvi,81,Male,Post Graduation,Sports,91,98,15,79,53,33,21,72,61
+9018,Tanvi,29,Female,Post Graduation,Music,71,83,55,21,89,13,67,67,7
+9021,Aanya,87,Male,School,Reading,70,54,1,19,54,64,72,1,39
+9026,Aditya,24,Female,School,Dancing,16,34,13,25,53,70,89,95,91
+9033,Sai,98,Female,School,Gaming,72,25,93,21,79,74,71,56,81
+9038,Riya,49,Female,Post Graduation,Painting,53,43,94,87,12,44,41,57,47
+9043,Sai,64,Female,School,Painting,65,80,28,81,6,34,29,5,42
+9045,Vivaan,89,Male,Graduation,Writing,54,66,58,40,51,50,68,99,4
+9051,Aditya,92,Female,Post Graduation,Music,27,99,36,96,14,45,67,8,79
+9056,Aditya,93,Male,Post Graduation,Gaming,49,75,29,97,100,67,10,39,38
+9063,Sanya,49,Female,School,Gaming,74,5,93,82,36,99,69,27,75
+9064,Aanya,43,Female,Post Graduation,Reading,13,96,96,33,5,66,9,49,33
+9065,Vivaan,34,Female,Post Graduation,Reading,12,98,16,95,11,31,41,69,85
+9066,Vivaan,3,Female,Post Graduation,Writing,25,13,69,29,54,9,47,89,63
+9068,Zara,32,Male,School,Cooking,73,9,30,59,24,11,27,46,11
+9076,Priya,33,Male,Post Graduation,Gaming,79,1,2,3,84,72,14,3,37
+9077,Diya,15,Female,Graduation,Writing,89,81,47,78,91,4,90,12,63
+9091,Tanvi,8,Female,Graduation,Traveling,21,1,66,35,96,84,70,53,34
+9095,Aryan,13,Female,Graduation,Music,94,95,14,38,30,20,64,61,90
+9106,Diya,32,Male,Graduation,Dancing,73,39,15,13,24,55,22,38,26
+9107,Arjun,54,Male,Post Graduation,Writing,69,92,97,53,19,5,55,13,8
+9110,Ananya,90,Male,Graduation,Traveling,66,89,17,56,0,46,42,43,66
+9115,Zara,80,Female,School,Writing,47,17,67,7,39,51,83,7,16
+9116,Aarav,12,Female,School,Cooking,7,34,6,85,4,30,46,75,15
+9119,Aryan,13,Male,School,Writing,98,34,55,36,5,86,91,76,90
+9124,Vihaan,53,Male,Graduation,Photography,83,53,60,43,60,70,51,22,87
+9125,Riya,85,Male,Graduation,Traveling,93,19,77,100,39,16,90,89,67
+9126,Myra,19,Male,Post Graduation,Cooking,91,79,76,44,74,86,38,51,73
+9129,Aditya,26,Female,Post Graduation,Traveling,9,5,88,40,20,21,77,69,89
+9132,Sanya,63,Male,Post Graduation,Painting,72,61,17,35,21,51,3,84,56
+9136,Ananya,50,Male,School,Sports,72,59,72,28,26,41,38,66,86
+9139,Arjun,1,Female,Post Graduation,Dancing,85,100,77,83,75,48,14,40,94
+9140,Zara,32,Female,Post Graduation,Traveling,38,100,74,6,11,16,59,13,44
+9151,Arjun,49,Male,Graduation,Cooking,34,49,6,32,59,9,54,14,72
+9153,Rohan,11,Female,School,Photography,63,96,18,73,93,65,17,46,36
+9155,Sanya,25,Female,Post Graduation,Sports,70,45,56,37,87,93,92,22,60
+9157,Myra,55,Male,School,Sports,85,69,94,52,0,59,63,37,12
+9158,Aditya,90,Female,Post Graduation,Dancing,44,6,59,10,46,12,2,8,89
+9162,Rohan,53,Male,Post Graduation,Reading,68,53,100,6,6,1,76,63,76
+9163,Myra,37,Male,School,Writing,70,18,11,6,24,96,74,51,65
+9173,Kabir,93,Female,School,Photography,20,39,26,22,99,46,6,19,31
+9174,Myra,77,Male,School,Traveling,5,89,74,95,11,94,96,97,97
+9175,Ananya,45,Male,Graduation,Writing,79,74,23,89,28,76,99,60,9
+9185,Aarav,84,Male,School,Writing,53,79,15,10,97,82,99,63,38
+9188,Arjun,88,Female,Graduation,Gaming,87,19,11,56,4,23,54,89,16
+9190,Kabir,10,Male,School,Sports,96,33,29,41,32,22,77,100,47
+9196,Aarav,26,Female,School,Writing,58,88,92,83,13,49,95,75,94
+9206,Krishna,8,Female,Graduation,Sports,85,29,94,21,40,15,100,34,12
+9210,Aanya,99,Female,Graduation,Sports,90,82,52,53,48,15,61,88,63
+9219,Zara,29,Male,Post Graduation,Dancing,76,30,20,85,51,34,37,78,37
+9227,Aditya,88,Male,School,Dancing,93,63,23,2,21,33,45,5,5
+9238,Riya,92,Female,School,Music,68,87,4,90,73,66,39,47,16
+9245,Ishita,83,Female,Graduation,Music,70,27,83,100,36,72,25,75,34
+9256,Zara,75,Female,Graduation,Cooking,3,44,98,42,86,71,30,3,55
+9257,Myra,31,Female,Post Graduation,Painting,3,49,1,79,19,24,46,61,65
+9262,Aryan,9,Male,School,Photography,53,33,43,17,63,62,47,94,20
+9264,Ananya,75,Female,Post Graduation,Traveling,24,16,64,30,43,50,96,7,99
+9267,Aarav,11,Female,School,Reading,85,64,53,23,93,61,16,0,12
+9269,Arjun,99,Female,School,Sports,42,61,79,22,95,77,81,79,37
+9270,Zara,66,Male,Post Graduation,Gaming,91,5,37,65,61,71,47,93,16
+9280,Riya,12,Male,School,Writing,47,11,35,53,100,87,75,56,11
+9281,Diya,58,Male,Post Graduation,Cooking,71,9,40,96,59,46,62,41,86
+9283,Ishita,77,Female,Post Graduation,Traveling,18,48,84,74,75,25,91,12,49
+9297,Krishna,3,Female,Post Graduation,Photography,61,93,20,45,12,12,93,95,19
+9298,Sanya,13,Female,Graduation,Reading,26,33,6,89,62,15,37,59,19
+9301,Vivaan,47,Female,Post Graduation,Gaming,33,66,10,28,9,72,56,6,74
+9304,Aarav,43,Female,School,Writing,57,25,77,58,5,46,7,84,3
+9305,Ananya,16,Male,School,Painting,61,72,31,80,56,59,63,50,25
+9312,Sanya,86,Male,School,Music,91,15,97,48,9,95,79,64,60
+9323,Zara,19,Male,School,Photography,94,20,86,36,71,78,28,45,13
+9333,Ishita,15,Male,Post Graduation,Photography,15,2,45,98,45,57,17,73,18
+9335,Riya,28,Male,Post Graduation,Reading,17,27,18,54,26,9,68,20,58
+9336,Sanya,65,Female,School,Painting,37,16,5,86,37,51,26,10,70
+9346,Vivaan,41,Female,School,Cooking,20,97,58,91,0,81,89,21,34
+9354,Zara,83,Male,Post Graduation,Gaming,11,64,60,19,15,94,4,69,68
+9357,Sanya,8,Male,Graduation,Music,81,50,80,35,73,68,17,30,13
+9358,Rohan,30,Female,School,Cooking,47,94,69,25,27,64,61,91,47
+9372,Aanya,36,Male,School,Writing,34,87,99,17,44,12,86,69,24
+9379,Sanya,40,Male,Graduation,Writing,62,95,84,89,69,21,47,2,99
+9389,Priya,85,Female,Graduation,Painting,16,54,18,80,76,52,59,43,59
+9391,Aryan,73,Male,Post Graduation,Painting,69,57,49,49,60,6,53,68,59
+9392,Aditya,49,Male,Graduation,Writing,60,30,98,54,85,57,80,2,78
+9395,Diya,18,Male,Graduation,Painting,79,30,34,49,58,93,82,48,98
+9397,Arjun,6,Male,School,Photography,78,99,70,36,38,13,3,77,98
+9400,Krishna,21,Female,Graduation,Photography,69,31,15,8,46,41,44,56,63
+9406,Arjun,4,Female,Post Graduation,Gaming,84,35,8,51,23,67,20,51,39
+9407,Aarav,95,Male,Graduation,Gaming,40,17,3,70,83,55,40,0,57
+9410,Diya,88,Female,Graduation,Dancing,97,25,59,73,68,60,46,29,24
+9414,Ananya,74,Male,Graduation,Writing,86,62,80,50,45,57,85,17,65
+9417,Krishna,55,Female,School,Reading,29,26,88,26,70,20,20,31,49
+9437,Ananya,67,Female,Graduation,Sports,50,89,100,23,23,6,37,12,99
+9457,Arjun,89,Female,Post Graduation,Cooking,70,21,13,62,45,11,16,65,54
+9461,Kabir,71,Male,School,Writing,87,36,100,29,94,39,76,25,22
+9473,Aryan,19,Female,Post Graduation,Dancing,74,66,48,7,30,72,49,72,1
+9476,Arjun,97,Male,Graduation,Traveling,99,79,33,59,73,11,15,31,5
+9483,Priya,92,Female,School,Traveling,89,93,67,67,90,15,59,16,69
+9486,Aditya,50,Female,School,Cooking,61,4,34,89,34,37,54,61,8
+9488,Sanya,31,Female,Post Graduation,Dancing,79,34,97,41,70,36,85,50,5
+9489,Rohan,45,Female,Post Graduation,Photography,1,14,19,11,90,23,73,24,13
+9490,Aryan,82,Female,Graduation,Music,84,34,3,89,28,21,8,17,18
+9494,Aryan,1,Female,School,Reading,58,70,85,10,55,95,25,83,25
+9495,Diya,99,Male,Graduation,Painting,57,9,81,14,66,68,65,1,91
+9507,Ananya,37,Female,School,Reading,8,51,82,77,76,2,45,78,12
+9508,Ananya,8,Male,Graduation,Dancing,0,60,19,10,40,40,69,87,50
+9511,Krishna,41,Male,School,Photography,77,11,12,12,83,31,95,42,6
+9513,Aarav,43,Female,Graduation,Music,48,45,43,75,42,72,10,76,20
+9514,Rohan,65,Male,Graduation,Music,77,75,86,37,76,6,75,56,44
+9517,Aryan,41,Male,Graduation,Music,83,7,36,62,57,9,35,93,22
+9519,Sanya,33,Female,Graduation,Writing,90,84,88,25,29,25,83,22,29
+9527,Aryan,17,Male,Graduation,Cooking,32,25,48,13,20,27,63,1,56
+9528,Arjun,76,Male,Graduation,Dancing,76,89,52,27,69,33,74,63,100
+9529,Vivaan,96,Female,School,Dancing,28,48,41,22,41,81,80,17,77
+9531,Priya,67,Female,School,Dancing,16,63,97,23,29,47,35,5,99
+9534,Aryan,92,Male,Graduation,Photography,13,90,79,89,12,6,21,79,54
+9548,Priya,60,Female,School,Photography,1,58,86,19,0,5,20,65,69
+9565,Aryan,54,Female,Post Graduation,Photography,32,42,77,22,74,76,82,56,17
+9579,Sai,73,Female,Post Graduation,Sports,86,69,76,31,99,21,15,62,13
+9588,Vivaan,52,Male,Post Graduation,Dancing,13,34,18,64,9,52,54,59,90
+9590,Krishna,84,Male,Graduation,Photography,16,47,97,54,52,83,50,68,75
+9600,Myra,66,Male,School,Traveling,61,89,50,27,13,61,100,12,100
+9611,Riya,47,Male,School,Traveling,8,40,93,38,67,23,89,12,47
+9619,Arjun,46,Male,Graduation,Photography,93,84,36,97,98,52,92,82,32
+9627,Ananya,25,Male,Graduation,Cooking,12,88,80,54,93,2,89,30,97
+9629,Riya,44,Male,School,Cooking,43,99,43,77,17,72,74,63,2
+9648,Ishita,57,Male,Graduation,Gaming,58,33,38,56,27,36,30,75,37
+9654,Ishita,13,Female,Post Graduation,Sports,11,47,9,99,30,84,20,52,59
+9660,Vivaan,66,Male,Graduation,Writing,24,15,22,92,64,90,74,35,26
+9665,Aryan,81,Male,Post Graduation,Photography,88,41,35,36,1,77,53,97,82
+9668,Krishna,9,Male,School,Reading,79,90,59,36,58,56,82,96,68
+9676,Arjun,58,Female,School,Sports,16,97,79,85,20,15,2,95,56
+9679,Myra,79,Female,Graduation,Writing,49,83,98,21,82,59,44,26,54
+9695,Aarav,90,Female,Post Graduation,Sports,90,3,21,98,34,23,55,60,6
+9696,Zara,36,Male,Post Graduation,Photography,93,83,53,54,87,98,56,48,91
+9700,Priya,53,Male,School,Cooking,6,93,7,68,76,22,5,23,4
+9702,Riya,35,Male,Graduation,Dancing,9,49,69,19,63,89,95,93,97
+9705,Priya,87,Male,School,Dancing,74,24,27,29,77,98,46,63,3
+9709,Aanya,37,Female,Post Graduation,Writing,69,22,53,8,97,17,95,3,82
+9731,Vihaan,89,Male,Graduation,Painting,43,34,54,25,29,49,93,58,53
+9732,Ishita,26,Male,Post Graduation,Reading,45,70,71,38,60,13,23,18,53
+9737,Rohan,94,Female,School,Painting,20,4,60,80,23,30,36,64,94
+9758,Myra,20,Female,Post Graduation,Music,43,84,23,80,82,12,89,38,60
+9762,Aryan,75,Female,Graduation,Painting,66,37,51,75,11,75,82,27,50
+9772,Priya,94,Female,Graduation,Reading,67,30,3,68,62,21,49,63,12
+9777,Aanya,19,Female,School,Music,75,87,91,95,81,8,26,89,73
+9778,Aarav,72,Female,Post Graduation,Writing,31,73,51,29,94,38,9,15,88
+9788,Ananya,18,Female,School,Dancing,90,4,98,7,89,33,51,91,33
+9801,Sai,80,Female,School,Reading,29,20,88,48,60,1,45,88,25
+9802,Aryan,91,Male,Graduation,Sports,94,8,59,27,67,38,70,85,98
+9808,Riya,19,Female,School,Painting,38,16,92,60,64,59,60,5,21
+9809,Sai,76,Female,Graduation,Photography,16,55,11,53,96,81,76,93,25
+9815,Rohan,46,Female,Post Graduation,Sports,17,13,30,40,32,9,52,73,71
+9822,Sanya,77,Male,School,Dancing,33,13,63,27,13,54,48,23,39
+9826,Krishna,32,Female,School,Cooking,91,54,45,43,69,36,75,23,15
+9836,Arjun,4,Female,Post Graduation,Cooking,42,83,39,84,47,60,7,73,6
+9841,Kabir,62,Female,School,Gaming,5,63,3,33,76,73,96,57,30
+9845,Aryan,16,Female,School,Photography,23,91,77,57,1,13,83,9,15
+9850,Vivaan,2,Female,School,Sports,19,74,62,26,25,9,49,76,83
+9852,Krishna,89,Female,Graduation,Writing,84,8,69,51,97,21,84,47,10
+9857,Aryan,48,Female,Post Graduation,Traveling,80,1,65,94,56,61,72,19,84
+9864,Rohan,31,Male,School,Gaming,0,5,8,37,9,64,71,39,25
+9881,Sanya,85,Male,School,Photography,26,30,8,73,30,52,69,8,19
+9883,Aanya,88,Male,School,Painting,35,80,21,75,36,25,87,84,93
+9891,Diya,73,Male,Post Graduation,Cooking,76,21,31,22,43,94,92,23,64
+9895,Vihaan,28,Male,School,Gaming,60,71,49,93,93,88,40,17,9
+9897,Vivaan,21,Female,Graduation,Reading,18,63,80,50,53,4,17,64,34
+9904,Aryan,16,Female,School,Gaming,78,39,42,49,14,33,14,73,90
+9906,Tanvi,2,Male,Post Graduation,Reading,24,91,15,80,76,72,4,26,19
+9909,Sanya,60,Female,School,Writing,36,18,23,66,92,84,89,97,81
+9922,Aarav,75,Female,Post Graduation,Photography,66,97,3,52,36,51,99,19,26
+9924,Vihaan,16,Female,School,Painting,48,76,56,67,79,35,100,19,44
+9927,Aryan,25,Female,School,Traveling,64,93,10,23,82,77,40,92,9
+9931,Vihaan,11,Female,Post Graduation,Gaming,55,99,79,4,72,79,16,65,11
+9934,Sai,4,Male,Post Graduation,Traveling,8,22,47,12,60,28,17,23,74
+9937,Priya,71,Male,School,Sports,37,34,59,62,2,43,8,71,53
+9940,Arjun,80,Male,Post Graduation,Music,40,64,7,22,55,20,6,80,58
+9945,Rohan,64,Female,Post Graduation,Sports,4,64,15,47,38,10,18,2,68
+9948,Rohan,6,Male,Graduation,Sports,85,16,80,17,27,43,68,30,62
+9951,Sanya,11,Female,Post Graduation,Traveling,3,42,30,98,48,90,40,7,54
+9953,Ananya,76,Female,Graduation,Sports,18,99,79,84,17,52,38,94,47
+9958,Kabir,78,Female,Post Graduation,Reading,89,54,49,16,78,0,48,94,79
+9971,Arjun,21,Female,Post Graduation,Music,42,46,66,71,11,79,55,96,41
+9976,Krishna,68,Male,School,Writing,87,3,94,46,49,71,92,12,97
+9991,Priya,48,Male,School,Gaming,78,18,59,5,64,33,50,60,77
+9992,Zara,80,Female,School,Writing,42,59,63,52,89,48,83,31,16
+9998,Krishna,11,Male,School,Photography,27,54,11,81,70,64,44,23,81
